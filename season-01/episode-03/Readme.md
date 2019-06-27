@@ -1,57 +1,30 @@
+# S01 E03 : Noticias interesantes
 
-# Episode 080 : Velero 1.0
+- Conducido por @domix
+- 2019-06-27
 
-- Hosted by @jbeda
-- 2019-06-21
+## Contenido
 
-<!--- Thumbnailed embed of the video, n8Xo_ghCIOSY is the video id from the youtube url --->
+- 00:00:00 - ¡Bienvenida al podcast!
 
-<a href="https://www.youtube.com/watch?v=tj5Ey2bHsfM
-" target="_blank"><img src="http://img.youtube.com/vi/tj5Ey2bHsfM/hqdefault.jpg" width="480" height="360" border="10" /></a>
+<!---
+- 00:04:00 - Revisión de las noticias
+--->
 
-## Table of Contents
+## Revisión de las noticias
 
-- 00:00:00 - Welcome to TGIK!
-- 00:04:00 - Week in Review
-- 00:19:00 - Velero and why it was renamed from Ark
-- 00:21:00 - Let's get started, starting with the docs
-- 00:25:00 - Creating an S3 bucket & IAM Account
-- 00:34:00 - Run `velero install`
-- 00:38:00 - Install nginx example workload
-- 00:48:00 - Take a backup using `velero backup create`
-- 00:52:00 - Look at contents of backup
-- 01:03:00 - Create scheduled backup
-- 01:07:00 - Install velero into cluster 2
-- 01:09:00 - Migrate nginx app from cluster 1 into cluster 2
-- 01:13:00 - Roadmap
-
-## Week in Review
-
-* [Kubernetes 1.15!](https://kubernetes.io/blog/2019/06/19/kubernetes-1-15-release-announcement/)
-    * [Future of CRDs](https://kubernetes.io/blog/2019/06/20/crd-structural-schema/)
-    * [Volume cloning is Alpha](https://kubernetes.io/blog/2019/06/21/introducing-volume-cloning-alpha-for-kubernetes/)
-    *  Reminder [1.16 deprecation timeline](https://groups.google.com/forum/#!searchin/kubernetes-dev/jordan$20liggitt|sort:date/kubernetes-dev/je0rjyfTVyc/gEUw1YcyAQAJ)
-* Congrats to the HAProxy folks for landing [HAProxy 2.0](https://www.haproxy.com/blog/haproxy-2-0-and-beyond/) with k8s support
-* Bjorn Wenzel is doing a series on a [complete CI/CD setup](https://koudingspawn.de/the-complete-ci-cd-part-1/)
-* Daniel Weibel did a post on [Boosting your kubectl productivity](https://itnext.io/boosting-your-kubectl-productivity-b348f7c25712?sk=c5819044a83b83d7d3bf52b5bc12e9a0)
-* [bank-vaults](https://github.com/banzaicloud/bank-vaults/) - a set of tools for managing vault by Banzaicloud has a new milestone
-* [Contour v0.13](https://github.com/heptio/contour/releases/tag/v0.13.0)
-
-## Show Notes
-* https://velero.io/
-* https://velero.io/docs/v1.0.0/install-overview/
-* Matty put that link here
+* [Container Essentials Workshop](http://ripperon.com/docker/2019/06/12/container-essentials-workshop/)
+    * [Material](https://docs.google.com/presentation/d/1lMZzHKp9iH6uOmiuuDtXi958XUBfn9oWMN3ZMfHPQqI/edit#slide=id.p)
+* [How to set up a serious Kubernetes terminal](https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4)
+    * [K9S](https://github.com/derailed/k9s)
+    * [Popeye](https://github.com/derailed/popeye)
+* [Handy Docker Aliases](https://hackernoon.com/handy-docker-aliases-4bd85089a3b8)
+* [Architecting a CI/CD pipeline for container and microservice-based applications](https://medium.com/@alokmalakar/architecting-a-ci-cd-pipeline-for-container-and-microservice-based-applications-120f4b470681)
 
 
-## Reference Links
+## Eventos
+
+* Guadalajara-Hack-Nights [Java Cloud Native](https://www.meetup.com/Guadalajara-Hack-Nights/events/262518614/)
+* Cloud Native Mexico [GraphQL Foundation](https://www.meetup.com/Cloud-Native-Mexico/events/262594826/)
 
 
-
-
-
-
-
-https://hackernoon.com/handy-docker-aliases-4bd85089a3b8
-https://medium.com/@amolkokje/infrastructure-as-a-code-using-terraform-aws-vsphere-8878ef127205
-https://medium.com/tensult/vpc-peering-using-terraform-105d554ed04d
-https://medium.com/@alokmalakar/architecting-a-ci-cd-pipeline-for-container-and-microservice-based-applications-120f4b470681
