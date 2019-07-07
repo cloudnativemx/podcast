@@ -1,7 +1,7 @@
 # S01 E04 : KubeCon Barcelona 2019
 
 - Conducido por @domix y @_marKox
-- 2019-06-XX
+- 7-Julio-2019
 
 ## Contenido
 
