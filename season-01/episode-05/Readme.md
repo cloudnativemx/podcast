@@ -26,6 +26,7 @@
 ## Repos chingones de código
 
 * [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook)
+* [Library/SDK for creating the operators for Kubernetes and Openshift.](https://github.com/jvm-operators/abstract-operator)
 
 
 ## Preguntas/Saludos de la comunidad
