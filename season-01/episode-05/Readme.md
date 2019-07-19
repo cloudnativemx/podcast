@@ -27,6 +27,7 @@
 
 * [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook)
 * [Library/SDK for creating the operators for Kubernetes and Openshift.](https://github.com/jvm-operators/abstract-operator)
+* [Dive-A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)
 
 
 ## Preguntas/Saludos de la comunidad
