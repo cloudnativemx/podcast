@@ -20,7 +20,7 @@
 * [Flagger 0.17 release](https://twitter.com/stefanprodan/status/1151162591856812035?s=21)
 * [UNLEASHING PREDATOR: PRECOMPUTED DATA REPOSITORIES](https://objectcomputing.com/news/2019/07/18/unleashing-predator-precomputed-data-repositories)
 * [Multi-Cloud Service Mesh Networking for Humans](https://www.hashicorp.com/resources/multi-cloud-service-mesh-networking-for-humans)
- * [Tweet de Mitchell Hashimoto](https://twitter.com/i/web/status/1151543328615227392)
+    * [Tweet de Mitchell Hashimoto](https://twitter.com/i/web/status/1151543328615227392)
 * [Kubernetes: Understanding Pods vs. Containers](https://speakerdeck.com/thockin/kubernetes-understanding-pods-vs-containers)
 
 ## Repos chingones de código
