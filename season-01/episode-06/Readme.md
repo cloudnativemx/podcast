@@ -19,12 +19,12 @@
 * [OpenWhisk official graduation to become an Apache Software Foundation (ASF) Top-Level-Project](https://developer.ibm.com/blogs/apache-openwhisk-community-graduation/)
 * [To run or not to run a database on Kubernetes: What to consider](https://cloud.google.com/blog/products/databases/to-run-or-not-to-run-a-database-on-kubernetes-what-to-consider)
 * [33(+) Kubernetes security tools.](https://sysdig.com/blog/33-kubernetes-security-tools/)
-* []()
+* 
 
 ## Repos chingones de código
 
 * [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-*
+* [Receive notifications when an image is updated on a Docker registry](https://github.com/crazy-max/diun)
 
 ## Referencias y Recursos
 
