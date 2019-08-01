@@ -22,6 +22,8 @@
 * [How to Set Up a Prometheus, Grafana and Alertmanager Monitoring Stack on DigitalOcean Kubernetes](https://dev.to/digitalocean/how-to-set-up-a-prometheus-grafana-and-alertmanager-monitoring-stack-on-digitalocean-kubernetes-268j)
 * [10 docker-compose and docker commands that are useful for active development](https://dev.to/aduranil/10-docker-compose-and-docker-commands-that-are-useful-for-active-development-22f9)
 * [Intro to Microsoft Azure Resource Manager Templates (Video)](https://dev.to/azure/intro-to-microsoft-azure-resource-manager-templates-video-9cc)
+* [Driving enterprise modernization with Google Cloud infrastructure](https://cloud.google.com/blog/products/networking/driving-enterprise-modernization-with-google-cloud-infrastructure)
+    * [Tweet de Matt Klein](https://twitter.com/mattklein123/status/1156413081116798976)
 
 ## Repos chingones de código
 
