@@ -1,7 +1,7 @@
 # S01 E05 : Las notas de la semana
 
 - Conducido por @domix y @_marKox
-- -Agosto-2019
+- 02-Agosto-2019
 
 ## Contenido
 
