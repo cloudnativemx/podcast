@@ -38,4 +38,5 @@
 * [DevOps Bogotá, primer meetup](https://www.meetup.com/Bogota-DevOps/events/263231656/)
 * [Guadalajara Hack Nights - Google App Engine](https://www.meetup.com/Guadalajara-Hack-Nights/events/262981257/)
 * Meetup Virtual de Cloud Native MX y Latam -  14 de Agosto. 8pm CST
+    * [YouTube](https://www.youtube.com/CloudNativeMexico)
 
