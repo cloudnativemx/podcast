@@ -7,13 +7,9 @@
 ## Contenido
 
 - 00:00:00 - ¡Bienvenida al podcast!
-
-
 - 00:02:00 - Revisión de las noticias
---->
-
 - 00:04:00 - Tema
-
+--->
 
 ## Revisión de las noticias
 
