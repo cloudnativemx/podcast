@@ -1,4 +1,4 @@
-# S01 E05 : Las notas de la semana
+# S01 E06 : Las notas de la semana
 
 - Conducido por @domix y @_marKox
 - 02-Agosto-2019
@@ -39,4 +39,3 @@
 * [Guadalajara Hack Nights - Google App Engine](https://www.meetup.com/Guadalajara-Hack-Nights/events/262981257/)
 * Meetup Virtual de Cloud Native MX y Latam -  14 de Agosto. 8pm CST
     * [YouTube](https://www.youtube.com/CloudNativeMexico)
-
