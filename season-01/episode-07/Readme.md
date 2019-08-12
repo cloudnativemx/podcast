@@ -13,11 +13,14 @@
 
 ## Revisión de las noticias
 
+* [OpenTracing + OpenCensus = OpenTelemetry](https://www.cncf.io/blog/2019/05/21/a-brief-history-of-opentelemetry-so-far/)
 
 ## Referencias y Recursos
 
 
 ## Repos chingones de código
 
+* [Awesome Micronaut](https://github.com/JonasHavers/awesome-micronaut)
+* [BotKube](https://github.com/infracloudio/botkube)
 
 ## Eventos
