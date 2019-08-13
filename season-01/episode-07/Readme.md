@@ -33,6 +33,7 @@
 
 * [Awesome Micronaut](https://github.com/JonasHavers/awesome-micronaut)
 * [BotKube](https://github.com/infracloudio/botkube)
+* [rget - download URLs and verify the contents against a publicly recorded cryptographic log](https://github.com/merklecounty/rget)
 
 ## Tema del día
 
