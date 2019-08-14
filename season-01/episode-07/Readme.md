@@ -42,3 +42,4 @@
 ## Eventos
 
 [Service Mesh Interface Specification Overview and Examples](https://www.meetup.com/San-Diego-Kubernetes-Meetup/events/263943775/)
+[Running Nodeless K8s & Getting Involved in K8s Releases](https://www.meetup.com/Los-Angeles-Kubernetes-Meetup/events/263300724/)
