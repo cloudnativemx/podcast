@@ -40,3 +40,5 @@
 [Why I love Trunk Based Development (or pushing straight to master)](https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0)
 
 ## Eventos
+
+[Service Mesh Interface Specification Overview and Examples](https://www.meetup.com/San-Diego-Kubernetes-Meetup/events/263943775/)
