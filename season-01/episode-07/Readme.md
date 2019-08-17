@@ -1,4 +1,4 @@
-# S01 E07 : Las notas de la semana
+# S01 E07 : Why I love Trunk Based Development (or pushing straight to master)
 
 - Conducido por @domix y @_marKox
 - -Agosto-2019
