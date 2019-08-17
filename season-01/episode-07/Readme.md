@@ -16,6 +16,7 @@
 * [OpenTracing + OpenCensus = OpenTelemetry](https://www.cncf.io/blog/2019/05/21/a-brief-history-of-opentelemetry-so-far/)
 * [OPA Gatekeeper: Policy and Governance for Kubernetes](https://kubernetes.io/blog/2019/08/06/opa-gatekeeper-policy-and-governance-for-kubernetes/)
 * [Propuesta de "Archivado" de rkt](https://twitter.com/cra/status/1157443989961789440)
+* [Archivado de rkt](https://twitter.com/CloudNativeFdn/status/1162378736194465793)
 * [How Google Cloud Storage processes cloud functions 4x faster than Amazon Web Services](https://research.lightstep.com/reports/google-cloud-storage)
 * [Serverless gRPC + ASP.NET Core with Knative](https://medium.com/google-cloud/serverless-grpc-asp-net-core-with-knative-b37ce09ea067)
 
