@@ -1,7 +1,7 @@
 # S01 E07 : Why I love Trunk Based Development (or pushing straight to master)
 
 - Conducido por @domix y @_marKox
-- -Agosto-2019
+- 17-Agosto-2019
 
 <!---
 ## Contenido
