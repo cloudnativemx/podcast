@@ -35,11 +35,13 @@
 * [BotKube](https://github.com/infracloudio/botkube)
 * [rget - download URLs and verify the contents against a publicly recorded cryptographic log](https://github.com/merklecounty/rget)
 
-## Tema del día
-
-[Why I love Trunk Based Development (or pushing straight to master)](https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0)
-
 ## Eventos
 
 * [Service Mesh Interface Specification Overview and Examples](https://www.meetup.com/San-Diego-Kubernetes-Meetup/events/263943775/)
 * [Running Nodeless K8s & Getting Involved in K8s Releases](https://www.meetup.com/Los-Angeles-Kubernetes-Meetup/events/263300724/)
+
+
+## Tema del día
+
+[Why I love Trunk Based Development (or pushing straight to master)](https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0)
+
