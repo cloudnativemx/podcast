@@ -1,0 +1,56 @@
+# S01 E08 : TBD
+
+- Conducido por @domix y @_marKox
+- -Agosto-2019
+
+<!---
+## Contenido
+
+- 00:00:00 - ¡Bienvenida al podcast!
+- 00:02:00 - Revisión de las noticias
+- 00:04:00 - Tema
+--->
+
+## Revisión de las noticias
+
+* [Introducing Kubernetes Academy](https://twitter.com/cloudnativeapps/status/1166380599998726145/)
+* []()
+
+## Twitter!
+
+* [What's VMware's Project Pacific?](https://twitter.com/i/web/status/1166009717392412673)
+* [Microservices after the Hype and Into the Future](https://twitter.com/ewolff/status/1166604164362887168/)
+* [Review: "The DevOps Handbook"](https://twitter.com/PabloIF/status/1166252300702224385/)
+* [The only viable future for Google is GCP.](https://twitter.com/solomonstre/status/1166163747523780609/)
+* [“Anyone who says DevOps is all about tooling wants to sell you something.”](https://twitter.com/azimman/status/1165413212616921088/)
+
+## Referencias y Recursos
+
+* [Distributed tracing in the service mesh: four myths](https://linkerd.io/2019/08/09/service-mesh-distributed-tracing-myths/)
+* [You want to adopt the “Spotify Model”? I don’t think it means what you think it means!’](https://medium.com/serious-scrum/you-want-to-adopt-the-spotify-model-i-dont-think-it-means-what-you-think-it-means-7df4316081f)
+* [Using Apache Kafka to implement event-driven microservices
+](https://dev.to/victorgil/using-apache-kafka-to-implement-event-driven-microservices-af2)
+* [The coming era of OS kernel modularity](https://twitter.com/nanovms/status/1135967432638488576/)
+* []()
+
+## Repos chingones de código
+
+* [A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP](https://github.com/eko/monday)
+* [The best way to tail AWS CloudWatch Logs from your terminal](https://github.com/lucagrulla/cw)
+* []()
+* []()
+* []()
+
+## Eventos
+
+* [Webinar: How Cilium uses BPF to Supercharge Kubernetes Networking & Security](https://www.cncf.io/webinars/how-cilium-uses-bpf-to-supercharge-kubernetes-networking-security/)
+* []()
+* []()
+* []()
+* []()
+
+
+## Tema del día
+
+[]()
+
