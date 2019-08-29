@@ -1,4 +1,4 @@
-# S01 E08 : Exteniendo DevOps
+# S01 E08 : Extendiendo DevOps
 
 - Conducido por @domix y @_marKox
 - -Agosto-2019
