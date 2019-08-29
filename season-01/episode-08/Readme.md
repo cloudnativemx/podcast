@@ -1,4 +1,4 @@
-# S01 E08 : TBD
+# S01 E08 : Exteniendo DevOps
 
 - Conducido por @domix y @_marKox
 - -Agosto-2019
@@ -14,7 +14,7 @@
 ## Revisión de las noticias
 
 * [Introducing Kubernetes Academy](https://twitter.com/cloudnativeapps/status/1166380599998726145/)
-* []()
+* [https://www.cncf.io/cncf-kubernetes-project-journey/](https://www.cncf.io/cncf-kubernetes-project-journey/)
 
 ## Twitter!
 
@@ -23,6 +23,7 @@
 * [Review: "The DevOps Handbook"](https://twitter.com/PabloIF/status/1166252300702224385/)
 * [The only viable future for Google is GCP.](https://twitter.com/solomonstre/status/1166163747523780609/)
 * [“Anyone who says DevOps is all about tooling wants to sell you something.”](https://twitter.com/azimman/status/1165413212616921088/)
+* [Have you ever wondered why you can call bind() only once?](https://twitter.com/majek04/status/1167043557095608321)
 
 ## Referencias y Recursos
 
@@ -31,7 +32,7 @@
 * [Using Apache Kafka to implement event-driven microservices
 ](https://dev.to/victorgil/using-apache-kafka-to-implement-event-driven-microservices-af2)
 * [The coming era of OS kernel modularity](https://twitter.com/nanovms/status/1135967432638488576/)
-* []()
+* [Using SSH Connections in Docker Contexts](https://blog.mikesir87.io/2019/08/using-ssh-connections-in-docker-contexts/)
 
 ## Repos chingones de código
 
@@ -52,5 +53,5 @@
 
 ## Tema del día
 
-[]()
+[Extendiendo Devops?](https://smarchy.com/blog/f/archops-part-ii-extending-the-devops-loop)
 
