@@ -1,7 +1,7 @@
 # S01 E08 : Extendiendo DevOps
 
 - Conducido por @domix y @_marKox
-- -Agosto-2019
+- 2-Septiembre-2019
 
 <!---
 ## Contenido
@@ -24,6 +24,7 @@
 * [The only viable future for Google is GCP.](https://twitter.com/solomonstre/status/1166163747523780609/)
 * [“Anyone who says DevOps is all about tooling wants to sell you something.”](https://twitter.com/azimman/status/1165413212616921088/)
 * [Have you ever wondered why you can call bind() only once?](https://twitter.com/majek04/status/1167043557095608321)
+* [Usage Share of Internet Browsers 1996 - 2019](https://twitter.com/dimensionmedia/status/1167806273846484993)
 
 ## Referencias y Recursos
 
