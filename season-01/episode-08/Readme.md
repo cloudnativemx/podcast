@@ -33,7 +33,7 @@
 ](https://dev.to/victorgil/using-apache-kafka-to-implement-event-driven-microservices-af2)
 * [The coming era of OS kernel modularity](https://twitter.com/nanovms/status/1135967432638488576/)
 * [Using SSH Connections in Docker Contexts](https://blog.mikesir87.io/2019/08/using-ssh-connections-in-docker-contexts/)
-
+* [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
 ## Repos chingones de código
 
 * [A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP](https://github.com/eko/monday)
