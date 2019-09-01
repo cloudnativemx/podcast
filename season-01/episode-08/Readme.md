@@ -25,6 +25,7 @@
 * [“Anyone who says DevOps is all about tooling wants to sell you something.”](https://twitter.com/azimman/status/1165413212616921088/)
 * [Have you ever wondered why you can call bind() only once?](https://twitter.com/majek04/status/1167043557095608321)
 * [Usage Share of Internet Browsers 1996 - 2019](https://twitter.com/dimensionmedia/status/1167806273846484993)
+* [WeaveIgnite v0.6.0 now released](https://twitter.com/kubernetesonarm/status/1167576564571262976)
 
 ## Referencias y Recursos
 
