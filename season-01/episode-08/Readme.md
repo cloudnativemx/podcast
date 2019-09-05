@@ -42,9 +42,7 @@
 
 * [A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP](https://github.com/eko/monday)
 * [The best way to tail AWS CloudWatch Logs from your terminal](https://github.com/lucagrulla/cw)
-* []()
-* []()
-* []()
+
 
 ## Eventos
 
