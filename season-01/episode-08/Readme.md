@@ -47,10 +47,6 @@
 ## Eventos
 
 * [Webinar: How Cilium uses BPF to Supercharge Kubernetes Networking & Security](https://www.cncf.io/webinars/how-cilium-uses-bpf-to-supercharge-kubernetes-networking-security/)
-* []()
-* []()
-* []()
-* []()
 
 
 ## Tema del día
