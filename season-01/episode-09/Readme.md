@@ -38,10 +38,11 @@
 
 ## Repos chingones de código
 
-* []()
-* []()
-* []()
-* []()
+* [Find files with SQL-like queries](https://github.com/jhspetersson/fselect)
+* [Terminal session recorder](https://github.com/asciinema/asciinema)
+* [Swiss Army Knife for macOS](https://github.com/rgcr/m-cli)
+* [A cd command that learns](https://github.com/wting/autojump)
+* [Good-lookin' diffs](https://github.com/so-fancy/diff-so-fancy)
 
 
 ## Eventos
