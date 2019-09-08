@@ -32,7 +32,7 @@
 
 * [Kubernetes-based Event Driven Autoscaling](https://github.com/kedacore/keda)
 * [Balena: IoT platform](https://www.balena.io)
-* []()
+* [Google Cloud Certification](https://inthecloud.withgoogle.com/cloud-certification#!/#benefits)
 * []()
 
 
