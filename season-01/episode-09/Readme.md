@@ -55,4 +55,4 @@
 
 ## Tema del día
 
-[]()
+AWS en el día a día de un practicante DevOps expatriado
