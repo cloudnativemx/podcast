@@ -1,4 +1,4 @@
-# S01 E09: TBD
+# S01 E09: AWS en el día a día de un practicante DevOps expatriado
 
 - Conducido por @domix y @_marKox
 - -Septiembre-2019
