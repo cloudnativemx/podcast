@@ -37,7 +37,7 @@
 
 ## Repos chingones de código
 
-* []()
+* [Hey](https://github.com/rakyll/hey)
 * []()
 * []()
 * []()
@@ -45,7 +45,7 @@
 
 ## Eventos
 
-* []()
+* [Paris Kubernetes Day](https://twitter.com/containous/status/1172441680126992385)
 * []()
 * []()
 * []()
