@@ -31,8 +31,8 @@
 
 * [Kubernetes-based Event Driven Autoscaling](https://github.com/kedacore/keda)
 * [Balena: IoT platform](https://www.balena.io)
-* [Google Cloud Certification](https://inthecloud.withgoogle.com/cloud-certification#!/#benefits)
-* []()
+* [Kubernetes: Up and Running, Second Edition](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/)
+* [DevOps terms: 10 essential concepts, explained](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
 
 
 ## Repos chingones de código
