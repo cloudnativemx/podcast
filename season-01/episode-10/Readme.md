@@ -41,7 +41,7 @@
 ## Repos chingones de código
 
 * [Hey](https://github.com/rakyll/hey)
-* [Git blame someone else](git@github.com:jayphelps/git-blame-someone-else.git)
+* [Git blame someone else](https://github.com/jayphelps/git-blame-someone-else)
 * [CueLang](https://github.com/cuelang/cue)
     * [Kubernetes tutorial](https://github.com/cuelang/cue/blob/master/doc/tutorial/kubernetes/README.md)
 * [The CLI tool for explaining commands from your terminal ](https://github.com/ediardo/kmdr-cli)
