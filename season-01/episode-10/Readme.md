@@ -38,7 +38,7 @@
 ## Repos chingones de código
 
 * [Hey](https://github.com/rakyll/hey)
-* []()
+* [Git blame someone else](git@github.com:jayphelps/git-blame-someone-else.git)
 * []()
 * []()
 
