@@ -1,4 +1,4 @@
-# S01 E10: TBD
+# S01 E10: Oracle hace lo inesperado y la moralidad en la nube
 
 - Conducido por @domix y @_marKox
 - 20-Septiembre-2019
@@ -59,4 +59,4 @@
 
 ## Tema del día
 
-
+Oracle hace lo inesperado y la moralidad en la nube
