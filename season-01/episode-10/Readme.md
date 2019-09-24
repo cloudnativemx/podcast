@@ -52,10 +52,6 @@
 ## Eventos
 
 * [Paris Kubernetes Day](https://twitter.com/containous/status/1172441680126992385)
-* []()
-* []()
-* []()
-
 
 ## Tema del día
 
