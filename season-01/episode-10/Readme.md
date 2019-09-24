@@ -3,14 +3,6 @@
 - Conducido por @domix y @_marKox
 - 20-Septiembre-2019
 
-<!---
-## Contenido
-
-- 00:00:00 - ¡Bienvenida al podcast!
-- 00:02:00 - Revisión de las noticias
-- 00:04:00 - Tema
---->
-
 ## Revisión de las noticias
 
 * [Eclipse Che 7 Goes Kubernetes-Native](https://thenewstack.io/eclipse-che-7-goes-kubernetes-native-leaves-eclipse-ide-behind/)
