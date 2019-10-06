@@ -1,7 +1,7 @@
 # S01 E11: 
 
 - Conducido por @domix y @_marKox
-- -Septiembre-2019
+- -Octubre-2019
 
 ## Revisión de las noticias
 
