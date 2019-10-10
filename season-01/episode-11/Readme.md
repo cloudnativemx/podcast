@@ -8,7 +8,7 @@
 * [Anthos simplifies application modernization with managed service mesh and serverless for your hybrid cloud](https://cloud.google.com/blog/topics/hybrid-cloud/anthos-simplifies-application-modernization-with-managed-service-mesh-and-serverless-for-your-hybrid-cloud)
 * [Firekube - Fast and Secure Kubernetes Clusters Using Weave Ignite](https://www.weave.works/blog/firekube-fast-and-secure-kubernetes-clusters-using-weave-ignite)
 * [New on DigitalOcean Kubernetes: Fresh Features & 1-Click Apps](https://blog.digitalocean.com/new-on-digitalocean-kubernetes/)
-* []()
+* [Docker is in deep trouble](https://www.zdnet.com/article/docker-is-in-deep-trouble/)
 * []()
 * []()
 * []()
@@ -22,8 +22,8 @@
 * [Did you know? # of Web Servers](https://twitter.com/w3c/status/1179909748147343361)
 * [70 Best Kubernetes Tutorials](https://twitter.com/learnk8s/status/1180441324786507777)
 * ["France looks for alternative to US cloud firms"](https://twitter.com/cra/status/1180185075075502080)
-* []()
-* []()
+* [I'm here for this](https://twitter.com/rothgar/status/1179886951295528970)
+* [Moving to a monolith allowed us to rid our pipeline of operational issues while significantly increasing developer productivity.](https://twitter.com/kelseyhightower/status/1179536332042817537)
 * []()
 * []()
 
@@ -42,7 +42,7 @@
 
 ## Repos chingones de código
 
-* []()
+* [betterer makes it easier to make incremental improvements to your codebase](https://github.com/phenomnomnominal/betterer)
 * []()
 * []()
 * []()
