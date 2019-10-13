@@ -25,7 +25,9 @@
 * [I'm here for this](https://twitter.com/rothgar/status/1179886951295528970)
 * [Moving to a monolith allowed us to rid our pipeline of operational issues while significantly increasing developer productivity.](https://twitter.com/kelseyhightower/status/1179536332042817537)
 * [Can we just call devops what it is people?](https://twitter.com/craig_tracey/status/1181736816728301570)
-* []()
+* [I absolutely love the 
+@jqassistant
+ dashboard in 1.7](https://twitter.com/rotnroll666/status/1182000790409494528)
 
 
 ## Referencias y Recursos
