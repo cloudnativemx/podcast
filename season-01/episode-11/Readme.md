@@ -1,4 +1,4 @@
-# S01 E11: 
+# S01 E11: En camino a KubeCon NA 2019
 
 - Conducido por @domix y @_marKox
 - 22-Octubre-2019
