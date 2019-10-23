@@ -9,10 +9,8 @@
 * [Firekube - Fast and Secure Kubernetes Clusters Using Weave Ignite](https://www.weave.works/blog/firekube-fast-and-secure-kubernetes-clusters-using-weave-ignite)
 * [New on DigitalOcean Kubernetes: Fresh Features & 1-Click Apps](https://blog.digitalocean.com/new-on-digitalocean-kubernetes/)
 * [Docker is in deep trouble](https://www.zdnet.com/article/docker-is-in-deep-trouble/)
-* []()
-* []()
-* []()
-* []()
+* [Microsoft launches new open-source projects around Kubernetes and microservices](https://techcrunch.com/2019/10/16/microsoft-launches-new-open-source-projects-around-kubernetes-and-microservices/)
+* [Amazon migrates more than 100 consumer services from Oracle to AWS databases](https://techcrunch.com/2019/10/15/amazon-migrates-more-than-100-consumer-services-from-oracle-to-aws-databases/)
 
 
 
@@ -34,26 +32,10 @@
 
 * [Spondorship Prospectus](https://events.linuxfoundation.org/wp-content/uploads/2019/09/sponsor-cncf-20190924.pdf)
 * [Scribe: Transporting petabytes per hour via a distributed, buffered queueing system](https://engineering.fb.com/data-infrastructure/scribe/)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Zipkin or Jaeger? The Best Open Source Tools for Distributed Tracing](https://epsagon.com/blog/zipkin-or-jaeger-the-best-open-source-tools-for-distributed-tracing/)
 
 
 ## Repos chingones de código
 
 * [betterer makes it easier to make incremental improvements to your codebase](https://github.com/phenomnomnominal/betterer)
-* []()
-* []()
-* []()
-
-
-## Eventos
-
-* []()
-
-## Tema del día
-
 
