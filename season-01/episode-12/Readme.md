@@ -15,7 +15,7 @@
 
 ## Twitter!
 
-* []()
+* [Migrating AWS Lambda's front end from Java 8 to Java 11](https://twitter.com/nconnaughton/status/1190012822790520848)
 * []()
 * []()
 * []()
