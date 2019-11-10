@@ -58,3 +58,11 @@
     * [curl mxn.rate.sx/btc@2w # bitcoin price for last 2 weeks in Mexican peso](http://mxn.rate.sx/btc@2w)
 * []()
 * []()
+
+
+## Eventos 
+
+* Re:Invent 2019
+    * [Guide to AWS Identity sessions, workshops, and chalk talks](https://aws.amazon.com/blogs/security/aws-reinvent-2019-guide-to-aws-identity-sessions-workshops-chalk-talks/)
+    * [How to maximize your time in Vegas!](https://aws.amazon.com/blogs/storage/your-aws-storage-guide-to-reinvent-2019-how-to-maximize-your-time-in-vegas/)
+
