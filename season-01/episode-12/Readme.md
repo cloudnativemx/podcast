@@ -1,7 +1,7 @@
 # S01 E12:
 
 - Conducido por @domix y @_marKox
-- -Noviembre-2019
+- 10-Noviembre-2019
 
 ## Revisión de las noticias
 
@@ -16,9 +16,9 @@
 ## Twitter!
 
 * [Migrating AWS Lambda's front end from Java 8 to Java 11](https://twitter.com/nconnaughton/status/1190012822790520848)
-* []()
-* []()
-* []()
+* [PTES (Penetration testing execution standard) document :](https://twitter.com/binitamshah/status/1193426606355824640)
+* [The open source Jaeger distributed tracing platform has officially graduated into the top tier of projects being stewarded by the CNCF.](https://twitter.com/devopsdotcom/status/1193150263231680512)
+* [AWS App Mesh launches HTTP2 and gRPC support!](https://twitter.com/_shubha/status/1192598521024663553)
 * []()
 
 
