@@ -7,8 +7,8 @@
 
 * [CNCF announces Vitess Graduation](https://www.cncf.io/announcement/2019/11/05/cloud-native-computing-foundation-announces-vitess-graduation/)
 * [Kubernetes Documentation Survey](https://kubernetes.io/blog/2019/10/29/kubernetes-documentation-end-user-survey/)
-* []()
-* []()
+* [Serverless Specification CloudEvents Reaches Version 1.0](https://www.cncf.io/announcement/2019/10/28/serverless-specification-cloudevents-reaches-version-1-0/)
+* [Container Usage Report: New Kubernetes and security insights](https://sysdig.com/blog/sysdig-2019-container-usage-report/)
 * []()
 
 
@@ -30,7 +30,7 @@
     * [What's new](https://docs.micronaut.io/1.2.6/guide/index.html#whatsNew)
     * [Micronaut Kubernetes](https://micronaut-projects.github.io/micronaut-kubernetes/1.0.0/guide/)
 * [Knative = Kubernetes Networking++](https://ahmet.im/blog/knative-better-kubernetes-networking/)
-* []()
+* [Use your own keys to protect your data on GKE](https://cloud.google.com/blog/products/containers-kubernetes/exploring-container-security-use-your-own-keys-to-protect-your-data-on-gke)
 * []()
 
 
@@ -64,4 +64,7 @@
 
 * Re:Invent 2019
     * [Guide to AWS Identity sessions, workshops, and chalk talks](https://aws.amazon.com/blogs/security/aws-reinvent-2019-guide-to-aws-identity-sessions-workshops-chalk-talks/)
-    * [How to maximize your time in Vegas!](https://aws.amazon.com/blogs/storage/your-aws-storage-guide-to-reinvent-2019-how-to-maximize-your-time-in-vegas/)
+    * [Guide to AWS storage: How to maximize your time in Vegas!](https://aws.amazon.com/blogs/storage/your-aws-storage-guide-to-reinvent-2019-how-to-maximize-your-time-in-vegas/)
+    * [https://aws.amazon.com/blogs/mobile/amplify-reinvent-2019-guide/](Guide to AWS Mobile, Web and Front end)
+    * [https://aws.amazon.com/blogs/security/aws-reinvent-2019-security-guide-sessions-workshops-and-chalk-talks/](Guide AWS Security)
+    * [Guide to AWS Artificial Intelligence and Machine Learning](https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2019/)
