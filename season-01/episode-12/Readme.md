@@ -1,4 +1,4 @@
-# S01 E12: 
+# S01 E12:
 
 - Conducido por @domix y @_marKox
 - -Noviembre-2019
@@ -27,7 +27,7 @@
 
 * [VisualVM](https://visualvm.github.io/)
 * Micronaut 1.2.6
-    * [What's new](https://docs.micronaut.io/1.2.6/guide/index.html#whatsNew
+    * [What's new](https://docs.micronaut.io/1.2.6/guide/index.html#whatsNew)
     * [Micronaut Kubernetes](https://micronaut-projects.github.io/micronaut-kubernetes/1.0.0/guide/)
 * [Knative = Kubernetes Networking++](https://ahmet.im/blog/knative-better-kubernetes-networking/)
 * []()
@@ -54,15 +54,14 @@
 * [rate.sx](https://github.com/chubin/rate.sx)
     * [curl rate.sx/](http://rate.sx/)
     * [curl rate.sx/btc # bitcoin for last 24hrs](http://rate.sx/btc)
-    * [curl rate.sx/btc@2w #bitcoin for last 2 weeks]
+    * [curl rate.sx/btc@2w #bitcoin for last 2 weeks](http://rate.sx/btc@2w)
     * [curl mxn.rate.sx/btc@2w # bitcoin price for last 2 weeks in Mexican peso](http://mxn.rate.sx/btc@2w)
 * []()
 * []()
 
 
-## Eventos 
+## Eventos
 
 * Re:Invent 2019
     * [Guide to AWS Identity sessions, workshops, and chalk talks](https://aws.amazon.com/blogs/security/aws-reinvent-2019-guide-to-aws-identity-sessions-workshops-chalk-talks/)
     * [How to maximize your time in Vegas!](https://aws.amazon.com/blogs/storage/your-aws-storage-guide-to-reinvent-2019-how-to-maximize-your-time-in-vegas/)
-
