@@ -1,4 +1,4 @@
-# S01 E12:
+# S01 E12: Nuevos proyectos en CNCF
 
 - Conducido por @domix y @_marKox
 - 10-Noviembre-2019
