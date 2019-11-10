@@ -65,6 +65,6 @@
 * Re:Invent 2019
     * [Guide to AWS Identity sessions, workshops, and chalk talks](https://aws.amazon.com/blogs/security/aws-reinvent-2019-guide-to-aws-identity-sessions-workshops-chalk-talks/)
     * [Guide to AWS storage: How to maximize your time in Vegas!](https://aws.amazon.com/blogs/storage/your-aws-storage-guide-to-reinvent-2019-how-to-maximize-your-time-in-vegas/)
-    * [https://aws.amazon.com/blogs/mobile/amplify-reinvent-2019-guide/](Guide to AWS Mobile, Web and Front end)
-    * [https://aws.amazon.com/blogs/security/aws-reinvent-2019-security-guide-sessions-workshops-and-chalk-talks/](Guide AWS Security)
+    * [Guide to AWS Mobile, Web and Front end](https://aws.amazon.com/blogs/mobile/amplify-reinvent-2019-guide/)
+    * [Guide AWS Security](https://aws.amazon.com/blogs/security/aws-reinvent-2019-security-guide-sessions-workshops-and-chalk-talks/)
     * [Guide to AWS Artificial Intelligence and Machine Learning](https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2019/)
