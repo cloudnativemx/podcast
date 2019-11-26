@@ -16,7 +16,7 @@
 
 ## Twitter!
 
-* []()
+* [12,000 attendess KubeCon NA 2019](https://twitter.com/dankohn1/status/1198933573849497600?s=21)
 * []()
 * []()
 * []()
