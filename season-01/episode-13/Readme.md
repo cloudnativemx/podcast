@@ -5,8 +5,10 @@
 
 ## Revisión de las noticias
 
-* []()
-* []()
+* Official announcement Mirantis acquires Docker
+    * [Docker Restructures and Secures $35 Million](https://www.docker.com/press-release/docker-new-direction)
+    * [What We Announced Today and Why it Matters](https://www.mirantis.com/blog/mirantis-acquires-docker-enterprise-platform-business/)
+* [Helm 3.0.0 has been released!](https://helm.sh/blog/helm-3-released/)
 * []()
 * []()
 
