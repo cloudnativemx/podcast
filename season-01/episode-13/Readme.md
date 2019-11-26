@@ -30,12 +30,13 @@
 * [AWS geek](https://www.awsgeek.com/)
 * [eBook Cloud Native DevOps With Kubernetes](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
 * [Kubernetes by example](http://kubernetesbyexample.com/)
+* [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
 
 
 
 ## Repos chingones de código
 
-* []()
+* [Kiam](https://github.com/uswitch/kiam)
 * []()
 * []()
 * []()
