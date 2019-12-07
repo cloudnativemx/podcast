@@ -9,7 +9,7 @@
     * [Docker Restructures and Secures $35 Million](https://www.docker.com/press-release/docker-new-direction)
     * [What We Announced Today and Why it Matters](https://www.mirantis.com/blog/mirantis-acquires-docker-enterprise-platform-business/)
 * [Helm 3.0.0 has been released!](https://helm.sh/blog/helm-3-released/)
-* []()
+* [Amazon EKS on AWS Fargate Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-eks-on-aws-fargate-now-generally-available/)
 * []()
 
 
@@ -33,6 +33,7 @@
 * [eBook Cloud Native DevOps With Kubernetes](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
 * [Kubernetes by example](http://kubernetesbyexample.com/)
 * [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
+* [10 best practices to secure Kubernetes](https://www.datree.io/resources/kubernetes-best-practices)
 
 
 
