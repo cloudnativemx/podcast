@@ -10,14 +10,16 @@
     * [What We Announced Today and Why it Matters](https://www.mirantis.com/blog/mirantis-acquires-docker-enterprise-platform-business/)
 * [Helm 3.0.0 has been released!](https://helm.sh/blog/helm-3-released/)
 * [Amazon EKS on AWS Fargate Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-eks-on-aws-fargate-now-generally-available/)
-* []()
+* Amazon Builders’ Library
+  * [Check out The Amazon Builders’ Library – This is How We Do It!](https://aws.amazon.com/blogs/aws/check-out-the-amazon-builders-library-this-is-how-we-do-it/)
+  * [Articles](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)
 
 
 
 ## Twitter!
 
 * [12,000 attendess KubeCon NA 2019](https://twitter.com/dankohn1/status/1198933573849497600?s=21)
-* []()
+* [Initial demographic data from #KubeCon + #CloudNativeCon San Diego](https://twitter.com/dankohn1/status/1201629115155144708)
 * []()
 * []()
 
@@ -34,13 +36,16 @@
 * [Kubernetes by example](http://kubernetesbyexample.com/)
 * [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
 * [10 best practices to secure Kubernetes](https://www.datree.io/resources/kubernetes-best-practices)
+* [The Service Mesh Era: Architecting, Securing and Managing Microservices with Istio ](https://inthecloud.withgoogle.com/ebook-19/service-mesh-era-architecting-securing-and-managing-microsecives-with-istio.html)
+* [](https://awsfeed.com/whats-new/introducing-the-amazon-builders-library/)
 
 
+https://www.youtube.com/watch?v=zSdqHxvB0s4&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien
 
 ## Repos chingones de código
 
 * [Kiam](https://github.com/uswitch/kiam)
-* []()
+* [Jib](https://github.com/GoogleContainerTools/jib)
 * []()
 * []()
 
