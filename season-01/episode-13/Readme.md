@@ -37,7 +37,7 @@
 * [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
 * [10 best practices to secure Kubernetes](https://www.datree.io/resources/kubernetes-best-practices)
 * [The Service Mesh Era: Architecting, Securing and Managing Microservices with Istio ](https://inthecloud.withgoogle.com/ebook-19/service-mesh-era-architecting-securing-and-managing-microsecives-with-istio.html)
-* [](https://awsfeed.com/whats-new/introducing-the-amazon-builders-library/)
+* [AWS reInvent 2019 workshop links](https://alestic.com/2019/12/aws-reinvent-2019-workshops-jennine/)
 
 
 https://www.youtube.com/watch?v=zSdqHxvB0s4&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien
