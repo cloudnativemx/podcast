@@ -40,8 +40,6 @@
 * [AWS reInvent 2019 workshop links](https://alestic.com/2019/12/aws-reinvent-2019-workshops-jennine/)
 
 
-https://www.youtube.com/watch?v=zSdqHxvB0s4&list=PLj6h78yzYM2NDs-iu8WU5fMxINxHXlien
-
 ## Repos chingones de código
 
 * [Kiam](https://github.com/uswitch/kiam)
