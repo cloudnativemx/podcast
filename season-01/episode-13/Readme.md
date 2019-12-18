@@ -38,7 +38,7 @@
 * [10 best practices to secure Kubernetes](https://www.datree.io/resources/kubernetes-best-practices)
 * [The Service Mesh Era: Architecting, Securing and Managing Microservices with Istio ](https://inthecloud.withgoogle.com/ebook-19/service-mesh-era-architecting-securing-and-managing-microsecives-with-istio.html)
 * [AWS reInvent 2019 workshop links](https://alestic.com/2019/12/aws-reinvent-2019-workshops-jennine/)
-
+* [eBook: Istio Explained](https://wwwstage.ibm.com/account/reg/us-en/signup?formid=urx-33258)
 
 ## Repos chingones de código
 
