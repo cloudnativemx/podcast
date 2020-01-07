@@ -25,4 +25,6 @@ resources:
   - name: Blockchain
     url: Tecnología que no existía hace 10 años.
   - name: Empresas que no existían hace 10 años
-    url: CoreOS, HashiCorp, Docker Inc.
+    url: CoreOS, HashiCorp, Docker Inc., Digital Ocean
+  - name: Tecnología que se consolidó
+    url: Git (GitHub, GitLab).
