@@ -30,3 +30,5 @@ resources:
     url: Git (GitHub, GitLab).
   - name: Tecnología que se consolidó
     url: Inteligencia Artificial (Analytics, Big Data, Machine Learning)
+  - name: Tecnología que se consolidó
+    url: Medios sociales (Twitter, Facebook, Instagram, TikTok)
