@@ -20,10 +20,10 @@ resources:
     url: ¿Cómo trabajabamos hace 10 años?
   - name: Linux Containers
     url: https://medium.com/@tilakpatidar/evolution-of-linux-containers-660fcfdefa3e
-  - name: Internet Of Things (IoT)
-    url: Tecnología que no existía hace 10 años.
-  - name: Blockchain
-    url: Tecnología que no existía hace 10 años.
+  - name: Tecnología que no existía hace 10 años.
+    url: Internet Of Things (IoT)
+  - name: Tecnología que no existía hace 10 años.
+    url: Blockchain
   - name: Empresas que no existían hace 10 años
     url: CoreOS, HashiCorp, Docker Inc., Digital Ocean
   - name: Tecnología que se consolidó
