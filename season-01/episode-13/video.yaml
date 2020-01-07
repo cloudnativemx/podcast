@@ -28,3 +28,5 @@ resources:
     url: CoreOS, HashiCorp, Docker Inc., Digital Ocean
   - name: Tecnología que se consolidó
     url: Git (GitHub, GitLab).
+  - name: Tecnología que se consolidó
+    url: Inteligencia Artificial (Analytics, Big Data, Machine Learning)
