@@ -33,9 +33,6 @@ resources:
   - name: Top 10 open source projects (GitHub’s Octoverse)
     url: https://twitter.com/chetanp/status/1215316941553799175
     type: TWEET
-  - name: git log should tell you a story
-    url: http://www.mokacoding.com/blog/your-git-log-should-tell-a-story/
-    type: TWEET
   - name: Kubernetes CRDs for Terraform providers
     url: https://github.com/kubeform/kubeform/
     type: SOURCE_CODE_REPO
@@ -59,4 +56,7 @@ resources:
     type: REFERENCE
   - name: "DBLog: A Generic Change-Data-Capture Framework"
     url: http://bit.ly/2FLkB6E
+    type: REFERENCE
+  - name: git log should tell you a story
+    url: http://www.mokacoding.com/blog/your-git-log-should-tell-a-story/
     type: REFERENCE
