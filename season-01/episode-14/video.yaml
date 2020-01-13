@@ -39,6 +39,12 @@ resources:
   - name: The Biggest KubeCon + CloudNativeCon to Date
     url: http://bit.ly/36PjnD0
     type: REFERENCE
+  - name: KubeCon + CloudNativeCon Europe 2019 Transparency Report
+    url: https://events19.linuxfoundation.org/wp-content/uploads/2019/07/KubeCon_EU_19_Report.pdf
+    type: REFERENCE
+  - name: KubeCon + CloudNativeCon + Open Source Summit China 2019  Transparency Report
+    url: https://events19.linuxfoundation.org/wp-content/uploads/2019/07/KubeCon_China_19_Report_final.pdf
+    type: REFERENCE
   - name: Production Oriented Development
     url: http://bit.ly/35QKXyp
     type: REFERENCE
