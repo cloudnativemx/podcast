@@ -60,8 +60,8 @@ resources:
     type: REFERENCE
   - name: Kiam
     url: https://github.com/uswitch/kiam
-    type: REPOSITORY
+    type: SOURCE_CODE_REPO
   - name: Jib
     url: https://github.com/GoogleContainerTools/jib
-    type: REPOSITORY
-  - name: 
+    type: SOURCE_CODE_REPO
+  - name: introducing-the-webassembly-hub-a-service-for-building-deploying-sharing-and-discovering-wasm-d461719383ca
