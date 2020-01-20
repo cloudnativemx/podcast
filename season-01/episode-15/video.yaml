@@ -32,9 +32,6 @@ resources:
   - name: Articles about Amazon Builders’ Library 
     url: https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc
     type: REFERENCE
-  - name: Kubernetes made my latency 10x higher
-    url: https://srvaroa.github.io/kubernetes/migration/latency/dns/java/aws/microservices/2019/10/22/kubernetes-added-a-0-to-my-latency.html
-    type: REFERENCE
   - name: AWS geek
     url: https://www.awsgeek.com/
     type: REFERENCE
@@ -50,18 +47,12 @@ resources:
   - name: 10 best practices to secure Kubernetes
     url: https://www.datree.io/resources/kubernetes-best-practices
     type: REFERENCE
-  - name: 'The Service Mesh Era: Architecting, Securing and Managing Microservices with Istio'
-    url: https://inthecloud.withgoogle.com/ebook-19/service-mesh-era-architecting-securing-and-managing-microsecives-with-istio.html
-    type: REFERENCE
   - name: AWS reInvent 2019 workshop links
     url: https://alestic.com/2019/12/aws-reinvent-2019-workshops-jennine/
     type: REFERENCE
   - name: 'eBook: Istio Explained'
     url: https://wwwstage.ibm.com/account/reg/us-en/signup?formid=urx-33258
     type: REFERENCE
-  - name: Kiam
-    url: https://github.com/uswitch/kiam
-    type: SOURCE_CODE_REPO
   - name: Jib
     url: https://github.com/GoogleContainerTools/jib
     type: SOURCE_CODE_REPO
