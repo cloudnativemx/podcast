@@ -26,6 +26,9 @@ resources:
     url: https://medium.com/solo-io/introducing-the-webassembly-hub-a-service-for-building-deploying-sharing-and-discovering-wasm-d461719383ca
   - name: Announcing GraalWasm — a WebAssembly engine in GraalVM
     url: https://medium.com/graalvm/announcing-graalwasm-a-webassembly-engine-in-graalvm-25cd0400a7f2
+  - name: Serverless-NoCode-NoSQL 
+    url: https://twitter.com/oldmankris/status/1218151330444914688
+    type: TWEET
   - name: Articles about Amazon Builders’ Library 
     url: https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc
     type: REFERENCE
