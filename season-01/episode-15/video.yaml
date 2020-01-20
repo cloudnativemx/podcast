@@ -65,4 +65,3 @@ resources:
   - name: Jib
     url: https://github.com/GoogleContainerTools/jib
     type: SOURCE_CODE_REPO
-  - name: introducing-the-webassembly-hub-a-service-for-building-deploying-sharing-and-discovering-wasm-d461719383ca
