@@ -18,16 +18,12 @@ participants:
 resources:
   - name: Amazon EKS on AWS Fargate Now Generally Available
     url: https://aws.amazon.com/blogs/aws/amazon-eks-on-aws-fargate-now-generally-available/
-    type: NEWS
   - name: Amazon Builders’ Library 
     url: https://aws.amazon.com/blogs/aws/check-out-the-amazon-builders-library-this-is-how-we-do-it/
-    type: NEWS
   - name: WebAssembly Core Specification
     url: https://www.w3.org/TR/wasm-core-1/
-    type: NEWS
   - name: Introducing the WebAssembly Hub
     url: https://medium.com/solo-io/introducing-the-webassembly-hub-a-service-for-building-deploying-sharing-and-discovering-wasm-d461719383ca
-    type: NEWS
   - name: Articles about Amazon Builders’ Library 
     url: https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc
     type: REFERENCE
