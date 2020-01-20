@@ -24,6 +24,9 @@ resources:
     url: https://www.w3.org/TR/wasm-core-1/
   - name: Introducing the WebAssembly Hub
     url: https://medium.com/solo-io/introducing-the-webassembly-hub-a-service-for-building-deploying-sharing-and-discovering-wasm-d461719383ca
+  - name: Serverless-NoCode-NoSQL 
+    url: https://twitter.com/oldmankris/status/1218151330444914688
+    type: TWEET
   - name: Articles about Amazon Builders’ Library 
     url: https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc
     type: REFERENCE
