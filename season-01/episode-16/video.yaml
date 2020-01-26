@@ -20,6 +20,8 @@ resources:
     url: https://www.grahamcluley.com/microsoft-data-breach/
   - name: Amazon EKS Price Reduction
     url: https://aws.amazon.com/blogs/aws/eks-price-reduction/
+  - name: Lightbend Telemetry
+    url: https://www.lightbend.com/blog/lightbend-telemetry-2.13-released
   - name: Kubernetes made my latency 10x higher
     url: https://srvaroa.github.io/kubernetes/migration/latency/dns/java/aws/microservices/2019/10/22/kubernetes-added-a-0-to-my-latency.html
     type: REFERENCE
