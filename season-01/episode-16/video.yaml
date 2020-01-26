@@ -1,0 +1,31 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: Podcast S01-E16
+showSubtitle: Más data breaches
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: Microsoft data breach exposes 250 million customer service and support records
+    url: https://www.grahamcluley.com/microsoft-data-breach/
+  - name: Amazon EKS Price Reduction
+    url: https://aws.amazon.com/blogs/aws/eks-price-reduction/
+  - name: Kubernetes made my latency 10x higher
+    url: https://srvaroa.github.io/kubernetes/migration/latency/dns/java/aws/microservices/2019/10/22/kubernetes-added-a-0-to-my-latency.html
+    type: REFERENCE
+  - name: 'The Service Mesh Era: Architecting, Securing and Managing Microservices with Istio'
+    url: https://inthecloud.withgoogle.com/ebook-19/service-mesh-era-architecting-securing-and-managing-microsecives-with-istio.html
+    type: REFERENCE
+  - name: Kiam
+    url: https://github.com/uswitch/kiam
+    type: SOURCE_CODE_REPO
