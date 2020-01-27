@@ -24,6 +24,9 @@ resources:
     url: https://www.lightbend.com/blog/lightbend-telemetry-2.13-released
   - name: Octarine Adds 2 Open Source Projects To Secure Kubernetes
     url: https://www.linux.com/news/octarine-adds-2-open-source-projects-to-secure-kubernetes/
+  - name: Jeff Bezos,dueño de Amazon y hombre más rico del mundo hackeado.
+    url: https://twitter.com/unsrdebarcelona/status/1220807420278202368
+    type: TWEET
   - name: SQLite Is Serverless
     url: https://twitter.com/alexellisuk/status/1221355007318151170
     type: TWEET
