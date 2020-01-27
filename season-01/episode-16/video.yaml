@@ -39,7 +39,7 @@ resources:
   - name: announce Secret Manager - a secure and convenient method for storing API keys, passwords, certificates, and other sensitive data on GCP
     url: https://twitter.com/sethvargo/status/1220035296018018310
     type: TWEET
-  - name: Conelia Davis the new WeaveWorks CTO
+  - name: Cornelia Davis the new WeaveWorks CTO
     url: https://twitter.com/cdavisafc/status/1220017566267203585
     type: TWEET
   - name: I hope SMI gets adopted into CNCF
@@ -53,9 +53,6 @@ resources:
     type: TWEET
   - name: Vagrant cumple 10 años!
     url: https://twitter.com/mitchellh/status/1219656867783139329
-    type: TWEET
-  - name: I hope SMI gets adopted into CNCF - Darren Shepherd
-    url: https://twitter.com/ibuildthecloud/status/1219688502276677632
     type: TWEET
   - name: Kubernetes made my latency 10x higher
     url: https://srvaroa.github.io/kubernetes/migration/latency/dns/java/aws/microservices/2019/10/22/kubernetes-added-a-0-to-my-latency.html
