@@ -1,8 +1,8 @@
 !!obs.util.model.Video
 id: goo
 showName: Cloud Native México
-showTitle: Podcast S01-E16
-showSubtitle: Más data breaches - Microsoft y Jeff Bezos Hackeados!
+showTitle: Podcast S01-E17
+showSubtitle: 
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -27,3 +27,6 @@ resources:
   - name: CSI Ephemeral Inline Volumes
     url: https://twitter.com/kubernetesio/status/1220766975523217411
     type: TWEET
+  - name: Google Cloud Next 2020
+    url: https://cloud.google.com/blog/topics/google-cloud-next/join-us-at-google-cloud-next-2020
+    type: EVENT
