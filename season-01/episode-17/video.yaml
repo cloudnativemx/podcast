@@ -27,6 +27,9 @@ resources:
   - name: CSI Ephemeral Inline Volumes
     url: https://twitter.com/kubernetesio/status/1220766975523217411
     type: TWEET
+  - name: Gloogle Foundation Toolkit
+    url: https://cloud.google.com/foundation-toolkit/
+    type: REFERENCE
   - name: Google Cloud Next 2020
     url: https://cloud.google.com/blog/topics/google-cloud-next/join-us-at-google-cloud-next-2020
     type: EVENT
