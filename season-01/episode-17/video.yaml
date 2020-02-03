@@ -30,6 +30,9 @@ resources:
   - name: Gloogle Foundation Toolkit
     url: https://cloud.google.com/foundation-toolkit/
     type: REFERENCE
+  - name: Minimalistic init system for containers with AWS/GCP secrets support
+    url: https://github.com/doitintl/secrets-init
+    type: SOURCE_CODE_REPO
   - name: Google Cloud Next 2020
     url: https://cloud.google.com/blog/topics/google-cloud-next/join-us-at-google-cloud-next-2020
     type: EVENT
