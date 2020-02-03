@@ -27,12 +27,39 @@ resources:
   - name: CSI Ephemeral Inline Volumes
     url: https://twitter.com/kubernetesio/status/1220766975523217411
     type: TWEET
+  - name: Proliferation of Google engineers has caused not only a hype culture, but an obsession with scale and correctness
+    url: https://twitter.com/benplotnick/status/1222232905176371200
+    type: TWEET
+  - name: I think it's time to move beyond etcd being the only datastore
+    url: https://twitter.com/ibuildthecloud/status/1222555729199939584
+    type: TWEET
   - name: Gloogle Foundation Toolkit
     url: https://cloud.google.com/foundation-toolkit/
     type: REFERENCE
-  - name: Minimalistic init system for containers with AWS/GCP secrets support
-    url: https://github.com/doitintl/secrets-init
-    type: SOURCE_CODE_REPO
+  - name: Do I Need an API Gateway if I Use a Service Mesh?
+    url: https://blog.christianposta.com/microservices/do-i-need-an-api-gateway-if-i-have-a-service-mesh/
+    type: REFERENCE
+  - name: Kubernetes CKA Example Questions Practical Challenge
+    url: https://levelup.gitconnected.com/kubernetes-cka-example-questions-practical-challenge-86318d85b4d
+    type: REFERENCE
+  - name: How ignoring technical debt nearly destroyed a bank’s reputation
+    url: https://medium.com/serious-scrum/how-ignoring-technical-debt-nearly-destroyed-a-banks-reputation-62efdc3fd968
+    type: REFERENCE
+  - name: The Git Commands Every Software Engineer Should Know
+    url: https://medium.com/@nxgieng/the-git-commands-every-software-engineer-should-know-part-ii-875160a74e92
+    type: REFERENCE
+  - name: Why and How To Use Docker for Development
+    url: https://medium.com/better-programming/why-and-how-to-use-docker-for-development-a156c1de3b24
+    type: REFERENCE
+  - name: "Logs in Kubernetes: expectations vs reality"
+    url: https://medium.com/flant-com/kubernetes-logging-challenges-aad3f45d8eed
+    type: REFERENCE
+  - name: Kubernetes Ingress — Simplified · Scaleout Ninja
+    url: https://medium.com/swlh/kubernetes-ingress-simplified-e0b9dc32f9fd
+    type: REFERENCE
   - name: Google Cloud Next 2020
     url: https://cloud.google.com/blog/topics/google-cloud-next/join-us-at-google-cloud-next-2020
     type: EVENT
+  - name: Minimalistic init system for containers with AWS/GCP secrets support
+    url: https://github.com/doitintl/secrets-init
+    type: SOURCE_CODE_REPO
