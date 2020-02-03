@@ -33,7 +33,7 @@ resources:
   - name: I think it's time to move beyond etcd being the only datastore
     url: https://twitter.com/ibuildthecloud/status/1222555729199939584
     type: TWEET
-  - name: Gloogle Foundation Toolkit
+  - name: Google Foundation Toolkit
     url: https://cloud.google.com/foundation-toolkit/
     type: REFERENCE
   - name: Do I Need an API Gateway if I Use a Service Mesh?
