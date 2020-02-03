@@ -2,7 +2,7 @@
 id: goo
 showName: Cloud Native México
 showTitle: Podcast S01-E17
-showSubtitle: 
+showSubtitle: Serverless, API Gateway y Service Mesh
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
