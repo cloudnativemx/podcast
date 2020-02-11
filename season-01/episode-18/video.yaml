@@ -18,4 +18,18 @@ participants:
 resources:
   - name: "After Kubernetes’ Victory, Its Former Rivals Change Tack"
     url: https://www.datacenterknowledge.com/business/after-kubernetes-victory-its-former-rivals-change-tack
-  
+  - name: The State of the Octoverse
+    url: https://octoverse.github.com/
+    type: REFERENCE
+  - name: Results of the 2019 AWS Container Security Survey
+    url: https://aws.amazon.com/blogs/containers/results-of-the-2019-aws-container-security-survey/
+    type: REFERENCE
+  - name: Building sustainable microservices, our opinions and advice.
+    url: https://building.echo.co.uk/microservices-opinions-and-advice/
+    type: REFERENCE
+  - name: Spaceship ZSH 
+    url: https://github.com/denysdovhan/spaceship-prompt
+    type: SOURCE_CODE_REPO
+  - name: First Contributions
+    url: https://github.com/firstcontributions/first-contributions
+    type: SOURCE_CODE_REPO
