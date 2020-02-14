@@ -37,6 +37,9 @@ resources:
   - name: GitHub CLI beta is announced!
     url: https://twitter.com/nerdneha/status/1227638416587673601
     type: TWEET
+  - name: GitHubIndia
+    url: https://twitter.com/GitHubIndia/status/1227612009165811714
+    type: TWEET
   - name: Spaceship ZSH 
     url: https://github.com/denysdovhan/spaceship-prompt
     type: SOURCE_CODE_REPO
