@@ -1,8 +1,8 @@
 !!obs.util.model.Video
 id: goo
 showName: Cloud Native México
-showTitle: Podcast S01-E17
-showSubtitle: Serverless, API Gateway y Service Mesh
+showTitle: Podcast S01-E18
+showSubtitle: Queremos CoronaCloud, fuchi-caca CoronaVirus
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -16,6 +16,8 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: Cancelan el Mobile World Congress por brote de coronavirus
+    url: https://www.elfinanciero.com.mx/tech/cancelan-el-mobile-world-congress-por-brote-de-coronavirus
   - name: "After Kubernetes’ Victory, Its Former Rivals Change Tack"
     url: https://www.datacenterknowledge.com/business/after-kubernetes-victory-its-former-rivals-change-tack
   - name: The State of the Octoverse
@@ -27,9 +29,21 @@ resources:
   - name: Building sustainable microservices, our opinions and advice.
     url: https://building.echo.co.uk/microservices-opinions-and-advice/
     type: REFERENCE
+  - name: Kubernetes Istio simply visually explained
+    url: https://itnext.io/kubernetes-istio-simply-visually-explained-58a7d158b83f
+    type: REFERENCE
+  - name: GitHub CLI beta is announced!
+    url: https://twitter.com/nerdneha/status/1227638416587673601
+    type: TWEET
   - name: Spaceship ZSH 
     url: https://github.com/denysdovhan/spaceship-prompt
     type: SOURCE_CODE_REPO
   - name: First Contributions
     url: https://github.com/firstcontributions/first-contributions
     type: SOURCE_CODE_REPO
+  - name: DevOpsDays Mexico 2020
+    url: https://devopsdays.org/events/2020-guadalajara/welcome/
+    type: EVENT
+  - name: De VMware a Charmed OpenStack
+    url: https://ubuntu.com/engage/es/vmware-a-charmed-openstack
+    type: EVENT
