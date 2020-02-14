@@ -2,7 +2,7 @@
 id: goo
 showName: Cloud Native México
 showTitle: Podcast S01-E18
-showSubtitle: Queremos CoronaCloud, fuchi-caca CoronaVirus
+showSubtitle: ¡Queremos CoronaCloud!, fuchi-caca CoronaVirus
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -36,6 +36,9 @@ resources:
     type: REFERENCE
   - name: GitHub CLI beta is announced!
     url: https://twitter.com/nerdneha/status/1227638416587673601
+    type: TWEET
+  - name: Intel is building a VM in Rust
+    url: https://twitter.com/sadisticsystems/status/1227538297184047104
     type: TWEET
   - name: GitHubIndia
     url: https://twitter.com/GitHubIndia/status/1227612009165811714
