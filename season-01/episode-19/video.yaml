@@ -25,8 +25,8 @@ resources:
     url: https://www.stackrox.com/post/2020/02/eks-vs-gke-vs-aks/
     type: REFERENCE
   - name: 'Announcing Linkerd 2.7: External PKI support, better gitops workflows, streamlined cert rotation'
-    url: https://linkerd.io/2020/02/10/announcing-linkerd-2.7/
-    type: REFERENCE
+    url: https://twitter.com/Linkerd/status/1226984981529907203
+    type: TWEET
   - name: 'Cloud OnBoard: Core Infrastructure'
     url: https://cloudonair.withgoogle.com/events/onboard-core-infrastructure
     type: EVENT
