@@ -16,6 +16,8 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: What happened to Slack today
+    url: https://techcrunch.com/2020/02/10/what-happened-to-slack-today/
   - name: "Exploring Container Security: Run what you trust; isolate what you don’t"
     url: https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-engine-features-and-guidance-to-help-lock-down-your-containers
     type: REFERENCE
