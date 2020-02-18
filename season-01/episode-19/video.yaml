@@ -24,7 +24,10 @@ resources:
   - name: EKS vs GKE vs AKS - Evaluating Kubernetes in the Cloud
     url: https://www.stackrox.com/post/2020/02/eks-vs-gke-vs-aks/
     type: REFERENCE
-  - name: 'Announcing Linkerd 2.7: External PKI support, better gitops workflows, streamlined cert rotation'
+  - name: 'DigitalOcean eBook: Kubernetes for Full-Stack Developers'
+    url: https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers
+    type: REFERENCE
+  - name: 'Announcing Linkerd 2.7: External PKI support, better gitops workflows, streamlined cert rotation'Ï
     url: https://twitter.com/Linkerd/status/1226984981529907203
     type: TWEET
   - name: 'Cloud OnBoard: Core Infrastructure'
