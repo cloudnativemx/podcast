@@ -1,8 +1,8 @@
 !!obs.util.model.Video
 id: goo
 showName: Cloud Native México
-showTitle: Podcast S01-E18
-showSubtitle: ¡Queremos CoronaCloud!, fuchi-caca CoronaVirus
+showTitle: Podcast S01-E19
+showSubtitle: Amazon no puede dejar Oracle, Dogmas de DevOps & ¿Que onda con Slack?
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -27,8 +27,29 @@ resources:
   - name: 'DigitalOcean eBook: Kubernetes for Full-Stack Developers'
     url: https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers
     type: REFERENCE
+  - name: The Wall of Coding Wisdoms in Our Office
+    url: https://phauer.com/2020/wall-coding-wisdoms-quotes/
+    type: REFERENCE
+  - name: "Why can’t Amazon move from Oracle database to AWS for their own businesses?"
+    url: https://www.quora.com/Why-can-t-Amazon-move-from-Oracle-database-to-AWS-for-their-own-businesses/answers/130996090?ch=99&share=2f1b1940&srid=udrb
+    type: REFERENCE
   - name: 'Announcing Linkerd 2.7: External PKI support, better gitops workflows, streamlined cert rotation'Ï
     url: https://twitter.com/Linkerd/status/1226984981529907203
+    type: TWEET
+  - name: David Nicolette on TDD
+    url: https://twitter.com/davenicolette/status/1231094587147587585
+    type: TWEET
+  - name: "Removing Google as a Single Point of Failure"
+    url: https://twitter.com/jakewharton/status/1230163339436810241
+    type: TWEET
+  - name: "Why the Full Stack Engineer is Problematic"
+    url: https://twitter.com/patrickdebois/status/1230837937790693376
+    type: TWEET
+  - name: DevOps dogmas
+    url: https://twitter.com/patrickdebois/status/1228698080788303875
+    type: TWEET
+  - name: Inlets is a Cloud Native Tunnel with Kubernetes + Docker support
+    url: https://twitter.com/alexellisuk/status/1231214486197014528
     type: TWEET
   - name: 'Cloud OnBoard: Core Infrastructure'
     url: https://cloudonair.withgoogle.com/events/onboard-core-infrastructure
