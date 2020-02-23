@@ -33,6 +33,9 @@ resources:
   - name: "Why can’t Amazon move from Oracle database to AWS for their own businesses?"
     url: https://www.quora.com/Why-can-t-Amazon-move-from-Oracle-database-to-AWS-for-their-own-businesses/answers/130996090?ch=99&share=2f1b1940&srid=udrb
     type: REFERENCE
+  - name: 'How-to Guide: Debugging a Kubernetes Application'
+    url: https://www.cncf.io/blog/2020/02/14/how-to-guide-debugging-a-kubernetes-application/
+    type: REFERENCE
   - name: 'Announcing Linkerd 2.7: External PKI support, better gitops workflows, streamlined cert rotation'Ï
     url: https://twitter.com/Linkerd/status/1226984981529907203
     type: TWEET
