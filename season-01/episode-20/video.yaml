@@ -1,0 +1,39 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: Podcast S01-E20
+showSubtitle: 
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "Technical Writing Courses"
+    url: https://developers.google.com/tech-writing
+    type: REFERENCE
+  - name: "Kubernetes Native CD with FluxCD, Flagger and Linkerd"
+    url: https://dev.to/orelimelech_/kubernetes-native-cd-with-fluxcd-flagger-and-linkerd-o69
+    type: REFERENCE
+  - name: "Introducing a Dart runtime for AWS Lambda"
+    url: https://aws.amazon.com/blogs/opensource/introducing-a-dart-runtime-for-aws-lambda/
+    type: REFERENCE
+  - name: Introducing a Dart runtime for AWS Lambda
+    url: https://aws.amazon.com/blogs/opensource/introducing-a-dart-runtime-for-aws-lambda/
+    type: REFEERNCE
+  - name: "Pangolin: An enhanced Horizontal Pod Autoscaler for Kubernetes"
+    url: https://github.com/dpeckett/pangolin
+    type: SOURCE_CODE_REPO
+  - name: "Automating Kubernetes with EKS and GitOps"
+    url: https://go.weave.works/webinar-10-15-19.html
+    type: EVENT
+  - name: "Rancher Online Meetup: Automating K3s Cluster Upgrades"
+    url: https://info.rancher.com/online-meetup-automating-k3s-cluster-upgrades
+    type: EVENT
