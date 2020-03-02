@@ -1,7 +1,7 @@
 !!obs.util.model.Video
 id: goo
 showName: Cloud Native México
-showTitle: Podcast S01-E20
+showTitle: "Podcast S01-E20: Microsoft invierte fuertemente en México, Linkerd mejora bastante y Service Mesh sigue pegando"
 showSubtitle: 
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
@@ -33,9 +33,6 @@ resources:
   - name: "Introducing a Dart runtime for AWS Lambda"
     url: https://aws.amazon.com/blogs/opensource/introducing-a-dart-runtime-for-aws-lambda/
     type: REFERENCE
-  - name: Introducing a Dart runtime for AWS Lambda
-    url: https://aws.amazon.com/blogs/opensource/introducing-a-dart-runtime-for-aws-lambda/
-    type: REFERENCE
   - name: "Survey Results: Service Mesh Useful for Security, Observability and Traffic Control"
     url: https://thenewstack.io/survey-results-service-mesh-useful-for-security-observability-and-traffic-control/
     type: REFERENCE
@@ -60,12 +57,13 @@ resources:
   - name: "Pangolin: An enhanced Horizontal Pod Autoscaler for Kubernetes"
     url: https://github.com/dpeckett/pangolin
     type: SOURCE_CODE_REPO
+  - name: "Awesome Interview Questions"
+    url: https://github.com/MaximAbramchuck/awesome-interview-questions
+    type: SOURCE_CODE_REPO
   - name: "Automating Kubernetes with EKS and GitOps"
     url: https://go.weave.works/webinar-10-15-19.html
     type: EVENT
   - name: "Rancher Online Meetup: Automating K3s Cluster Upgrades"
     url: https://info.rancher.com/online-meetup-automating-k3s-cluster-upgrades
     type: EVENT
-  - name: "Awesome Interview Questions"
-    url: https://github.com/MaximAbramchuck/awesome-interview-questions
-    type: SOURCE_CODE_REPO
+  
