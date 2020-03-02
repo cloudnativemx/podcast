@@ -40,3 +40,6 @@ resources:
   - name: "Rancher Online Meetup: Automating K3s Cluster Upgrades"
     url: https://info.rancher.com/online-meetup-automating-k3s-cluster-upgrades
     type: EVENT
+  - name: "Awesome Interview Questions"
+    url: https://github.com/MaximAbramchuck/awesome-interview-questions
+    type: SOURCE_CODE_REPO
