@@ -27,7 +27,7 @@ resources:
     type: REFERENCE
   - name: Introducing a Dart runtime for AWS Lambda
     url: https://aws.amazon.com/blogs/opensource/introducing-a-dart-runtime-for-aws-lambda/
-    type: REFEERNCE
+    type: REFERENCE
   - name: "Survey Results: Service Mesh Useful for Security, Observability and Traffic Control"
     url: https://thenewstack.io/survey-results-service-mesh-useful-for-security-observability-and-traffic-control/
     type: REFERENCE
