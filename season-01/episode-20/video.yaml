@@ -26,6 +26,7 @@ resources:
     type: REFERENCE
   - name: "Kubernetes Native CD with FluxCD, Flagger and Linkerd"
     url: https://dev.to/orelimelech_/kubernetes-native-cd-with-fluxcd-flagger-and-linkerd-o69
+    type: REFERENCE
   - name: "Multicluster Kubernetes with Service Mirroring"
     url: https://linkerd.io/2020/02/25/multicluster-kubernetes-with-service-mirroring/
     type: REFERENCE
