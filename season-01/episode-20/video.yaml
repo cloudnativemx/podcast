@@ -1,8 +1,8 @@
 !!obs.util.model.Video
 id: goo
 showName: Cloud Native México
-showTitle: "Podcast S01-E20: Microsoft invierte fuertemente en México, Linkerd mejora bastante y Service Mesh sigue pegando"
-showSubtitle: 
+showTitle: "Podcast S01-E20"
+showSubtitle: "Microsoft invierte fuertemente en México, Linkerd mejora bastante y Service Mesh sigue pegando"
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
