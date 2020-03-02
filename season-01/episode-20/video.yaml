@@ -16,11 +16,18 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: "Microsoft invertirá US$1,100 millones en México en un plazo de cinco años"
+    url: https://www.cnet.com/es/noticias/microsoft-inversion-1100-millones-dolares-mexico/
   - name: "Technical Writing Courses"
     url: https://developers.google.com/tech-writing
     type: REFERENCE
+  - name: "Ingress for Internal HTTP(S) Load Balancing"
+    url: https://cloud.google.com/kubernetes-engine/docs/concepts/ingress-ilb
+    type: REFERENCE
   - name: "Kubernetes Native CD with FluxCD, Flagger and Linkerd"
     url: https://dev.to/orelimelech_/kubernetes-native-cd-with-fluxcd-flagger-and-linkerd-o69
+  - name: "Multicluster Kubernetes with Service Mirroring"
+    url: https://linkerd.io/2020/02/25/multicluster-kubernetes-with-service-mirroring/
     type: REFERENCE
   - name: "Introducing a Dart runtime for AWS Lambda"
     url: https://aws.amazon.com/blogs/opensource/introducing-a-dart-runtime-for-aws-lambda/
@@ -31,6 +38,24 @@ resources:
   - name: "Survey Results: Service Mesh Useful for Security, Observability and Traffic Control"
     url: https://thenewstack.io/survey-results-service-mesh-useful-for-security-observability-and-traffic-control/
     type: REFERENCE
+  - name: "The @awscloud Marketplace: An Embezzlement Primer."
+    url: https://twitter.com/quinnypig/status/1149043458541346816
+    type: TWEET
+  - name: "OOP overhead has been largely negligible for a long time."
+    url: https://twitter.com/coreload/status/1232392352133574656
+    type: TWEET
+  - name: "All the stuff you love about computers were invented in the 1970s"
+    url: https://twitter.com/brianroemmele/status/1232156293139271681
+    type: TWEET
+  - name: ".@kelseyhightower on the future of @Kubernetesio"
+    url: https://twitter.com/quinnypig/status/1231665036545941504
+    type: TWEET
+  - name: "what is something you wish you understood better about containers/k8s?"
+    url: https://twitter.com/IanColdwater/status/1097036373465407489
+    type: TWEET
+  - name: "This marks the official end of rkt."
+    url: https://twitter.com/lucabruno/status/1232250467989807104
+    type: TWEET
   - name: "Pangolin: An enhanced Horizontal Pod Autoscaler for Kubernetes"
     url: https://github.com/dpeckett/pangolin
     type: SOURCE_CODE_REPO
