@@ -16,8 +16,18 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: "Novel Coronavirus Update"
+    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/
+  - name: "Introducing Uber’s Open Source Principles"
+    url: https://eng.uber.com/open-source-principles/
   - name: "Istio in 2020 - Following the Trade Winds"
     url: https://istio.io/blog/2020/tradewinds-2020/
+  - name: "API Contract Testing Made Easy"
+    url: https://thethinkingtester.blogspot.com/2020/03/api-contract-testing-made-easy.html
+    type: REFERENCE
+  - name: "Updating the Industry's Reliability Practices"
+    url: https://www.gremlin.com/blog/updating-the-industrys-reliability-practices/
+    type: REFERENCE
   - name: "Sloc Cloc and Code (scc)"
     url: https://github.com/boyter/scc
     type: SOURCE_CODE_REPO
