@@ -1,0 +1,32 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: "Podcast S01-E21"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "Istio in 2020 - Following the Trade Winds"
+    url: https://istio.io/blog/2020/tradewinds-2020/
+  - name: "Sloc Cloc and Code (scc)"
+    url: https://github.com/boyter/scc
+    type: SOURCE_CODE_REPO
+  - name: "kitty - the fast, featureful, GPU based terminal emulator"
+    url: https://sw.kovidgoyal.net/kitty
+    type: SOURCE_CODE_REPO
+  - name: "Nu Shell"
+    url: https://github.com/nushell/nushell
+    type: SOURCE_CODE_REPO
+  - name: "git-trim"
+    url: https://github.com/foriequal0/git-trim
+    type: SOURCE_CODE_REPO
