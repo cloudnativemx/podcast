@@ -1,0 +1,29 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: "Podcast S01-E21"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "Novel Coronavirus Update"
+    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/
+  - name: "Introducing Uber’s Open Source Principles"
+    url: https://eng.uber.com/open-source-principles/
+  - name: "API Contract Testing Made Easy"
+    url: https://thethinkingtester.blogspot.com/2020/03/api-contract-testing-made-easy.html
+    type: REFERENCE
+  - name: "Updating the Industry's Reliability Practices"
+    url: https://www.gremlin.com/blog/updating-the-industrys-reliability-practices/
+    type: REFERENCE
+  
