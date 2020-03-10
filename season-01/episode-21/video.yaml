@@ -30,6 +30,21 @@ resources:
   - name: "Updating the Industry's Reliability Practices"
     url: https://www.gremlin.com/blog/updating-the-industrys-reliability-practices/
     type: REFERENCE
+  - name: "Multi-Runtime Microservices Architecture"
+    url: https://www.infoq.com/articles/multi-runtime-microservice-architecture/
+    type: REFERENCE
+  - name: "SRE from Google?"
+    url: https://twitter.com/stevehill1981/status/1235817973387907073
+    type: TWEET
+  - name: "We didn't invent much..."
+    url: https://twitter.com/mariofusco/status/1235583024764420099
+    type: TWEET
+  - name: "The Istio project is really heading in the right direction! "
+    url: https://twitter.com/kelseyhightower/status/1235449975565254656
+    type: TWEET
+  - name: "I give a lot of love to Istio, but Linkerd is dope too. "
+    url: https://twitter.com/kelseyhightower/status/1237113956738543616
+    type: TWEET
   - name: "Sloc Cloc and Code (scc)"
     url: https://github.com/boyter/scc
     type: SOURCE_CODE_REPO
