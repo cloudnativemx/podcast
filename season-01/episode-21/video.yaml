@@ -2,7 +2,7 @@
 id: goo
 showName: Cloud Native México
 showTitle: "Podcast S01-E21"
-showSubtitle: ""
+showSubtitle: "Google Kubernetes Engine agrega cuota por Control Plane & Corona Virus update"
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -16,6 +16,8 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: "GKE agrega una cuota por el Control Plane"
+    url: https://cloud.google.com/kubernetes-engine/pricing
   - name: "Novel Coronavirus Update"
     url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/
   - name: "Introducing Uber’s Open Source Principles"
