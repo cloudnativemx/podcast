@@ -1,0 +1,42 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: "Podcast S01-E22"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "Remote Work Is Great but Far from Universal"
+    url: https://thenewstack.io/remote-work-is-great-but-far-from-universal/
+    type: REFERENCE
+  - name: "CNCF Launches a One-Stop Hub for Kubernetes Packages"
+    url: https://thenewstack.io/cncf-launches-a-one-stop-hub-for-kubernetes-packages/
+    type: REFERENCE
+  - name: "Top Six Open Source Tools for Monitoring Kubernetes and Docker"
+    url: https://devops.com/top-six-open-source-tools-for-monitoring-kubernetes-and-docker/
+    type: REFERENCE
+  - name: "HashiCorp Consul Service on Azure - Private Beta Preview"
+    url: https://www.hashicorp.com/blog/hcs-on-azure-private-beta-preview/
+    type: REFERENCE
+  - name: "HashiTalks 2020 Recorded Sessions Now Live"
+    url: https://www.hashicorp.com/blog/hashitalks-2020-recorded-sessions-now-live/
+    type: REFERENCE
+  - name: "Announcing Bottlerocket, a new open source Linux-based operating system purpose-built to run containers"
+    url: https://aws.amazon.com/about-aws/whats-new/2020/03/announcing-bottlerocket-a-new-open-source-linux-based-operating-system-optimized-to-run-containers/
+    type: REFERENCE
+  - name: "DevOps Connect: DevSecOps Days"
+    url: https://devopsconnectdevsecops.com/
+    type: EVENT
+  - name: "Scaling Prometheus Monitoring, the No-Hacks Way"
+    url: https://sysdig.com/resources/webinars/scaling-prometheus-monitoring-the-no-hacks-way/
+    type: EVENT
