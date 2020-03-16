@@ -32,7 +32,7 @@ resources:
     url: https://www.hashicorp.com/blog/hashitalks-2020-recorded-sessions-now-live/
     type: REFERENCE
   - name: "Announcing Bottlerocket, a new open source Linux-based operating system purpose-built to run containers"
-    url: https://aws.amazon.com/about-aws/whats-new/2020/03/announcing-bottlerocket-a-new-open-source-linux-based-operating-system-optimized-to-run-containers/
+    url: https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
     type: REFERENCE
   - name: "DevOps Connect: DevSecOps Days"
     url: https://devopsconnectdevsecops.com/
