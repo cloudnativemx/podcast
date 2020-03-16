@@ -39,6 +39,9 @@ resources:
   - name: "We didn't invent much..."
     url: https://twitter.com/mariofusco/status/1235583024764420099
     type: TWEET
+  - name: "The Istio project just consolidated its control plane"
+    url: https://twitter.com/kelseyhightower/status/1235457638692827136
+    type: TWEET
   - name: "The Istio project is really heading in the right direction! "
     url: https://twitter.com/kelseyhightower/status/1235449975565254656
     type: TWEET
