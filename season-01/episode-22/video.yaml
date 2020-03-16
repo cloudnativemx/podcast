@@ -2,7 +2,7 @@
 id: goo
 showName: Cloud Native México
 showTitle: "Podcast S01-E22"
-showSubtitle: ""
+showSubtitle: "Ecosistema HashiCorp para todos y WebAssembly Hub"
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -16,6 +16,8 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: "Announcing an extended and improved WebAssembly Hub"
+    url: https://www.solo.io/blog/an-extended-and-improved-webassembly-hub-to-helps-bring-the-power-of-webassembly-to-envoy-and-istio/
   - name: "Remote Work Is Great but Far from Universal"
     url: https://thenewstack.io/remote-work-is-great-but-far-from-universal/
     type: REFERENCE
@@ -34,6 +36,9 @@ resources:
   - name: "Announcing Bottlerocket, a new open source Linux-based operating system purpose-built to run containers"
     url: https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
     type: REFERENCE
+  - name: "Rust implementation of ttrpc (GRPC for low-memory environments)"
+    url: https://github.com/containerd/ttrpc-rust
+    type: SOURCE_CODE_REPO
   - name: "DevOps Connect: DevSecOps Days"
     url: https://devopsconnectdevsecops.com/
     type: EVENT
