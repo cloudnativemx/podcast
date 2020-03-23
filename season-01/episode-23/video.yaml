@@ -2,7 +2,7 @@
 id: goo
 showName: Cloud Native México
 showTitle: "Podcast S01-E23"
-showSubtitle: ""
+showSubtitle: "Kubernetes 1.18 se acerca, Rancher y HashiCorp levantan inversión y ¿Los contenedores son el futuro?"
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -20,19 +20,19 @@ resources:
     url: https://sysdig.com/blog/whats-new-kubernetes-1-18/
   - name: "Containers are Not the Future"
     url: https://www.linkedin.com/pulse/containers-future-ian-eyberg/
+  - name: "Rancher Labs Raises $40 Million Series D Round to Accelerate Growth of Its Kubernetes Management Platform"
+    url: https://rancher.com/press/rancher-labs-raises-series-d-fundraising-to-accelerate-growth-of-kubernetes-management-platform
+  - name: "HashiCorp Raises $175 Million in Series E Funding to Support Multi-Cloud Transformation"
+    url: http://www.globenewswire.com/news-release/2020/03/16/2001541/0/en/HashiCorp-Raises-175-Million-in-Series-E-Funding-to-Support-Multi-Cloud-Transformation-for-Global-Enterprises.html
   - name: "AWS launches initiative to accelerate COVID-19 diagnostics, research, and testing"
     url: https://blog.aboutamazon.com/innovation/aws-launches-initiative-to-accelerate-covid-19-diagnostics-research-and-testing
+  - name: "Platform9 Adds More Tiers to Kubernetes Service"
+    url: https://containerjournal.com/topics/container-management/platform9-adds-more-tiers-to-kubernetes-service/
   - name: "Software Daemons"
     url: https://samuel.karp.dev/blog/2019/11/software-daemons/
     type: REFERENCE
-  - name: "Platform9 Adds More Tiers to Kubernetes Service"
-    url: https://containerjournal.com/topics/container-management/platform9-adds-more-tiers-to-kubernetes-service/
-    type: REFERENCE
   - name: "Kubeflow 1.0 Brings a Production-Ready Machine Learning Toolset to Kubernetes"
     url: https://thenewstack.io/kubeflow-1-0-brings-a-production-ready-machine-learning-toolset-to-kubernetes/
-    type: REFERENCE
-  - name: "Rancher Labs Raises $40 Million Series D Round to Accelerate Growth of Its Kubernetes Management Platform"
-    url: https://rancher.com/press/rancher-labs-raises-series-d-fundraising-to-accelerate-growth-of-kubernetes-management-platform
     type: REFERENCE
   - name: "CNCF SURVEY 2019"
     url: https://www.cncf.io/wp-content/uploads/2020/03/CNCF_Survey_Report.pdf
