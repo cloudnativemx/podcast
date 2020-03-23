@@ -40,6 +40,9 @@ resources:
   - name: "Enabling cross-account access to Amazon EKS cluster resources"
     url: https://aws.amazon.com/blogs/containers/enabling-cross-account-access-to-amazon-eks-cluster-resources/
     type: REFERENCE
+  - name: "I often hear people ask why Kubernetes and Firecracker (FC) can’t just be used together"
+    url: https://twitter.com/micahhausler/status/1238496944684597248
+    type: TWEET
   - name: "Animation engine for explanatory math videos"
     url: https://github.com/3b1b/manim
     type: SOURCE_CODE_REPO
