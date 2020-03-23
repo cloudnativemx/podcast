@@ -1,0 +1,44 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: "Podcast S01-E22"
+showSubtitle: "Ecosistema HashiCorp para todos, WebAssembly Hub, ¿Nueva era para trabajar desde casa?"
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "AWS launches initiative to accelerate COVID-19 diagnostics, research, and testing"
+    url: https://blog.aboutamazon.com/innovation/aws-launches-initiative-to-accelerate-covid-19-diagnostics-research-and-testing
+  - name: "Platform9 Adds More Tiers to Kubernetes Service"
+    url: https://containerjournal.com/topics/container-management/platform9-adds-more-tiers-to-kubernetes-service/
+    type: REFERENCE
+  - name: "Kubeflow 1.0 Brings a Production-Ready Machine Learning Toolset to Kubernetes"
+    url: https://thenewstack.io/kubeflow-1-0-brings-a-production-ready-machine-learning-toolset-to-kubernetes/
+    type: REFERENCE
+  - name: "Rancher Labs Raises $40 Million Series D Round to Accelerate Growth of Its Kubernetes Management Platform"
+    url: https://rancher.com/press/rancher-labs-raises-series-d-fundraising-to-accelerate-growth-of-kubernetes-management-platform
+    type: REFERENCE
+  - name: "CNCF SURVEY 2019"
+    url: https://www.cncf.io/wp-content/uploads/2020/03/CNCF_Survey_Report.pdf
+    type: REFERENCE
+  - name: "Enabling cross-account access to Amazon EKS cluster resources"
+    url: https://aws.amazon.com/blogs/containers/enabling-cross-account-access-to-amazon-eks-cluster-resources/
+    type: REFERENCE
+  - name: "Zappa - Serverless Python"
+    url: https://github.com/Miserlou/Zappa
+    type: SOURCE_CODE_REPO
+  - name: "Lumigo-CLI"
+    url: https://github.com/lumigo-io/lumigo-CLI
+    type: SOURCE_CODE_REPO
+  - name: "Cloud Native Virtual Summit featuring Kubernetes"
+    url: https://info.d2iq.com/20-04-01-d2iq-virtual-summit-registration.html
+    type: EVENT
