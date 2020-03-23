@@ -1,8 +1,8 @@
 !!obs.util.model.Video
 id: goo
 showName: Cloud Native México
-showTitle: "Podcast S01-E22"
-showSubtitle: "Ecosistema HashiCorp para todos, WebAssembly Hub, ¿Nueva era para trabajar desde casa?"
+showTitle: "Podcast S01-E23"
+showSubtitle: ""
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -16,6 +16,13 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: "What’s new in Kubernetes 1.18?"
+    url: https://sysdig.com/blog/whats-new-kubernetes-1-18/
+  - name: "Containers are Not the Future"
+    url: https://www.linkedin.com/pulse/containers-future-ian-eyberg/
+  - name: "Software Daemons"
+    url: https://samuel.karp.dev/blog/2019/11/software-daemons/
+    type: REFERENCE
   - name: "AWS launches initiative to accelerate COVID-19 diagnostics, research, and testing"
     url: https://blog.aboutamazon.com/innovation/aws-launches-initiative-to-accelerate-covid-19-diagnostics-research-and-testing
   - name: "Platform9 Adds More Tiers to Kubernetes Service"
@@ -33,12 +40,18 @@ resources:
   - name: "Enabling cross-account access to Amazon EKS cluster resources"
     url: https://aws.amazon.com/blogs/containers/enabling-cross-account-access-to-amazon-eks-cluster-resources/
     type: REFERENCE
+  - name: "Animation engine for explanatory math videos"
+    url: https://github.com/3b1b/manim
+    type: SOURCE_CODE_REPO
   - name: "Zappa - Serverless Python"
     url: https://github.com/Miserlou/Zappa
     type: SOURCE_CODE_REPO
   - name: "Lumigo-CLI"
     url: https://github.com/lumigo-io/lumigo-CLI
     type: SOURCE_CODE_REPO
+  - name: "Cloud Native MX - Deployment strategies 101"
+    url: https://www.meetup.com/Cloud-Native-Mexico/events/269484205/
+    type: EVENT
   - name: "Cloud Native Virtual Summit featuring Kubernetes"
     url: https://info.d2iq.com/20-04-01-d2iq-virtual-summit-registration.html
     type: EVENT
