@@ -20,11 +20,11 @@ resources:
     url: https://sysdig.com/blog/whats-new-kubernetes-1-18/
   - name: "Containers are Not the Future"
     url: https://www.linkedin.com/pulse/containers-future-ian-eyberg/
+  - name: "AWS launches initiative to accelerate COVID-19 diagnostics, research, and testing"
+    url: https://blog.aboutamazon.com/innovation/aws-launches-initiative-to-accelerate-covid-19-diagnostics-research-and-testing
   - name: "Software Daemons"
     url: https://samuel.karp.dev/blog/2019/11/software-daemons/
     type: REFERENCE
-  - name: "AWS launches initiative to accelerate COVID-19 diagnostics, research, and testing"
-    url: https://blog.aboutamazon.com/innovation/aws-launches-initiative-to-accelerate-covid-19-diagnostics-research-and-testing
   - name: "Platform9 Adds More Tiers to Kubernetes Service"
     url: https://containerjournal.com/topics/container-management/platform9-adds-more-tiers-to-kubernetes-service/
     type: REFERENCE
