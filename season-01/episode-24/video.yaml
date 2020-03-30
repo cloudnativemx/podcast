@@ -1,0 +1,38 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: "Podcast S01-E24"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "Simplified global game management: Introducing Game Servers"
+    url: https://cloud.google.com/blog/products/gaming/introducing-google-cloud-game-servers
+  - name: "Hitachi Vantara acquires what’s left of Containership"
+    url: https://techcrunch.com/2020/03/10/hitachi-vantara-acquires-whats-left-of-containership/
+  - name: "Sysdig Introduces the First Cloud-Scale Prometheus Monitoring Offering"
+    url: https://sysdig.com/blog/cloud-scale-prometheus/
+  - name: "PromCat: A resource catalog for enterprise-class Prometheus monitoring"
+    url: https://sysdig.com/blog/promcat-prometheus-catalog/
+  - name: "Everything We Learned Running Istio In Production"
+    url: https://engineering.hellofresh.com/everything-we-learned-running-istio-in-production-part-1-51efec69df65
+    type: REFERENCE
+  - name: "Sonarqube setup on Kubernetes"
+    url: https://medium.com/@harsh.manvar111/sonarqube-setup-on-kubernetes-11b5047b774a
+    type: REFERENCE
+  - name: "Kubernetes Operators"
+    url: https://www.redhat.com/cms/managed-files/cl-oreilly-kubernetes-operators-ebook-f21452-202001-en_2.pdf
+    type: REFERENCE
+  - name: "Kubewatch"
+    url: https://github.com/bitnami-labs/kubewatch
+    type: SOURCE_CODE_REPO
