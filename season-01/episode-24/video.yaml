@@ -33,6 +33,9 @@ resources:
   - name: "Kubernetes Operators"
     url: https://www.redhat.com/cms/managed-files/cl-oreilly-kubernetes-operators-ebook-f21452-202001-en_2.pdf
     type: REFERENCE
+  - name: "COVID19 Global Online Hackathon"
+    url: https://covid-global-hackathon.devpost.com/
+    type: REFERENCE
   - name: "Kubewatch"
     url: https://github.com/bitnami-labs/kubewatch
     type: SOURCE_CODE_REPO
