@@ -16,6 +16,8 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: "Tech giants should let startups defer cloud payments - Or their COVID-disrupted customers could shut down"
+    url: https://techcrunch.com/2020/03/26/cloud-relief/
   - name: "Simplified global game management: Introducing Game Servers"
     url: https://cloud.google.com/blog/products/gaming/introducing-google-cloud-game-servers
   - name: "Hitachi Vantara acquires what’s left of Containership"
@@ -39,3 +41,6 @@ resources:
   - name: "Kubewatch"
     url: https://github.com/bitnami-labs/kubewatch
     type: SOURCE_CODE_REPO
+  - name: "10 conferences in April you can attend from home 🏡"
+    url: https://dev.to/tbublik/10-conferences-in-april-you-can-attend-from-home-5d14
+    type: EVENT
