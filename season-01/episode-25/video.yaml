@@ -60,3 +60,6 @@ resources:
   - name: "Managing infrastructure through GitOps with GitLab and Anthos"
     url: https://about.gitlab.com/webcast/gitops-gitlab-anthos/
     type: EVENT
+  - name: ".CONF & SPLUNKLIVE!"
+    url: https://www.splunk.com/en_us/blog/conf-splunklive/going-all-in-on-conf20-why-we-decided-to-go-virtual.html
+    type: EVENT
