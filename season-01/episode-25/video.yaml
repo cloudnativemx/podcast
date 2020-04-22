@@ -34,7 +34,7 @@ resources:
     url: https://thechief.io/c/editorial/resilience-engineering-devops-part-i-where-complex-systems-fail/
     type: REFERENCE
   - name: "Resilience Engineering and DevOps Part II: DevOps at the service of resilience"
-    url: https://thechief.io/c/editorial/resilience-engineering-devops-part-i-where-complex-systems-fail/
+    url: https://thechief.io/c/editorial/resilience-engineering-and-devops-part-ii-deeper-dive-resilience-engineering-it/
     type: REFERENCE
   - name: "Resilience Engineering & DevOps Part III: DevOps and Building a Culture of Resilience"
     url: https://thechief.io/c/editorial/resilience-engineering-devops-part-iii-building-culture-resilience/
