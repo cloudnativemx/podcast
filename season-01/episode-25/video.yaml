@@ -51,9 +51,6 @@ resources:
   - name: "SAWS"
     url: https://github.com/donnemartin/saws
     type: SOURCE_CODE_REPO
-  - name: "10 conferences in April you can attend from home 🏡"
-    url: https://dev.to/tbublik/10-conferences-in-april-you-can-attend-from-home-5d14
-    type: EVENT
   - name: "AWS Online Tech Talks for April 2020"
     url: https://aws.amazon.com/blogs/aws/aws-online-tech-talks-for-april-2020/
     type: EVENT
