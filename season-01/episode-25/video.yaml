@@ -60,3 +60,6 @@ resources:
   - name: ".CONF & SPLUNKLIVE!"
     url: https://www.splunk.com/en_us/blog/conf-splunklive/going-all-in-on-conf20-why-we-decided-to-go-virtual.html
     type: EVENT
+  - name: "Patterns For Delivering Microservices"
+    url: https://www.meetup.com/Cloud-Native-Mexico/
+    type: EVENT
