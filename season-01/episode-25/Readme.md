@@ -1,0 +1,36 @@
+# Podcast S01-E25: Resilience Engineering & DevOps
+
+- Conducido por @_marKox, @domix
+
+## Revisión de las noticias
+
+- [LogDNA Moves to Rust-Based Agents for Speedier Logging](https://thenewstack.io/logdna-moves-to-rust-based-agents-for-speedier-logging/)
+- [Falco Support on AWS Fargate](https://sysdig.com/blog/falco-support-on-aws-fargate/)
+- [TOC Welcomes Argo into the CNCF Incubator](https://www.cncf.io/blog/2020/04/07/toc-welcomes-argo-into-the-cncf-incubator/)
+- [TOC Votes to Move Dragonfly into CNCF Incubator](https://www.cncf.io/blog/2020/04/09/toc-votes-to-move-dragonfly-into-cncf-incubator/)
+
+## Referencias y Recursos
+
+- [Jack Ma Foundation Shares Coronavirus-Prevention Handbook](https://www.alizila.com/jack-ma-foundation-shares-coronavirus-prevention-handbook/)
+- [Learn how to deploy Prometheus in K8s in 5 minutes](https://medium.com/python-for-the-utopian/learn-how-to-deploy-prometheus-in-k8s-in-5-minutes-99562d8a1940)
+- [Resilience Engineering & DevOps Part I: Where Complex Systems Fail](https://thechief.io/c/editorial/resilience-engineering-devops-part-i-where-complex-systems-fail/)
+- [Resilience Engineering and DevOps Part II: DevOps at the service of resilience](https://thechief.io/c/editorial/resilience-engineering-devops-part-i-where-complex-systems-fail/)
+- [Resilience Engineering & DevOps Part III: DevOps and Building a Culture of Resilience](https://thechief.io/c/editorial/resilience-engineering-devops-part-iii-building-culture-resilience/)
+- [Putting customers first with SLIs and SLOs](https://medium.com/the-telegraph-engineering/putting-customers-first-with-slis-and-slos-15352f9b6cbc)
+- [Putting customers first with SLIs and SLOs (Part 2)](https://medium.com/the-telegraph-engineering/putting-customers-first-with-slis-and-slos-part-2-6b5c2452aecd)
+
+## Repos chingones de código
+
+- [Cloud Nuke](https://github.com/gruntwork-io/cloud-nuke)
+- [SAWS](https://github.com/donnemartin/saws)
+
+## Eventos
+
+- [AWS Online Tech Talks for April 2020](https://aws.amazon.com/blogs/aws/aws-online-tech-talks-for-april-2020/)
+- [Managing infrastructure through GitOps with GitLab and Anthos](https://about.gitlab.com/webcast/gitops-gitlab-anthos/)
+- [.CONF & SPLUNKLIVE!](https://www.splunk.com/en_us/blog/conf-splunklive/going-all-in-on-conf20-why-we-decided-to-go-virtual.html)
+
+
+### Créditos de música
+
+Music by Scott Buckley – www.scottbuckley.com.au
