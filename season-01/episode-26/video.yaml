@@ -25,7 +25,7 @@ resources:
   - name: "@BrandonPhilips deja a RedHat"
     url: https://twitter.com/brandonphilips/status/1253374921884893184
     type: TWEET
-  - name: ""
+  - name: "Fuerza DigitalOcean!"
     url: https://twitter.com/nixcraft/status/1253369283356160000
     type: TWEET
   - name: "Kubernetes Tips: Create Pods With Imperative Commands in 1.18"
