@@ -16,3 +16,18 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: "First version of Apple and Google’s contact tracing API should be available to developers next week"
+    url: https://techcrunch.com/2020/04/23/first-version-of-apple-and-googles-contact-tracing-api-should-be-available-to-developers-next-week/
+  - name: "How GKE surge upgrades improve operational efficiency"
+    url: https://cloud.google.com/blog/products/containers-kubernetes/introducing-surge-upgrades-for-anthos-gke
+  - name: "Alibaba News Roundup: Alibaba Cloud Gets a Sky-High Boost"
+    url: https://www.alizila.com/alibaba-news-roundup-alibaba-cloud-gets-a-sky-high-boost/
+  - name: "Kubernetes Tips: Create Pods With Imperative Commands in 1.18"
+    url: https://medium.com/better-programming/kubernetes-tips-create-pods-with-imperative-commands-in-1-18-62ea6e1ceb32
+    type: REFERENCE
+  - name: "Kubernetes without kube-proxy"
+    url: https://medium.com/@venkatnsrinivasan/kubernetes-without-kube-proxy-1c5d25786e18
+    type: REFERENCE
+  - name: "A Guide On The Installation Of Spinnaker in Kubernetes Clusters"
+    url: https://www.magalix.com/blog/a-guide-on-the-installation-of-spinnaker-in-your-production-kubernetes-cluster
+    type: REFERENCE
