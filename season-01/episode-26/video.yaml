@@ -22,6 +22,12 @@ resources:
     url: https://cloud.google.com/blog/products/containers-kubernetes/introducing-surge-upgrades-for-anthos-gke
   - name: "Alibaba News Roundup: Alibaba Cloud Gets a Sky-High Boost"
     url: https://www.alizila.com/alibaba-news-roundup-alibaba-cloud-gets-a-sky-high-boost/
+  - name: "@BrandonPhilips deja a RedHat"
+    url: https://twitter.com/brandonphilips/status/1253374921884893184
+    type: TWEET
+  - name: ""
+    url: https://twitter.com/nixcraft/status/1253369283356160000
+    type: TWEET
   - name: "Kubernetes Tips: Create Pods With Imperative Commands in 1.18"
     url: https://medium.com/better-programming/kubernetes-tips-create-pods-with-imperative-commands-in-1-18-62ea6e1ceb32
     type: REFERENCE
@@ -31,3 +37,6 @@ resources:
   - name: "A Guide On The Installation Of Spinnaker in Kubernetes Clusters"
     url: https://www.magalix.com/blog/a-guide-on-the-installation-of-spinnaker-in-your-production-kubernetes-cluster
     type: REFERENCE
+  - name: "Diagram as Code for prototyping cloud system architectures"
+    url: https://github.com/mingrammer/diagrams
+    type: SOURCE_CODE_REPO
