@@ -23,3 +23,6 @@
 
 - [Diagram as Code for prototyping cloud system architectures](https://github.com/mingrammer/diagrams)
 
+### Créditos de música
+
+Music by Scott Buckley – www.scottbuckley.com.au
