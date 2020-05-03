@@ -1,0 +1,45 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: "Podcast S01-E27"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "Cloud Native Computing Foundation Announces Helm Graduation"
+    url: https://www.cncf.io/announcement/2020/04/30/cloud-native-computing-foundation-announces-helm-graduation/
+  - name: "KUDO Automates Kubernetes Operators"
+    url: https://thenewstack.io/kudo-automates-kubernetes-operators/
+  - name: "Snyk Brings Its DevOps Security Sweep to Red Hat OpenShift"
+    url: https://thenewstack.io/snyk-brings-its-devops-security-sweep-to-red-hat-openshift/
+  - name: "Time Based Scaling for Kubernetes Deployments"
+    url: https://medium.com/symbl-ai-engineering-and-data-science/time-based-scaling-for-kubernetes-deployments-9ef7ada93eb7
+    type: REFERENCE
+  - name: "Top 7 GitHub Actions best practices guide"
+    url: https://www.datree.io/resources/github-actions-best-practices
+    type: REFERENCE
+  - name: "Deploying laravel application to Digital ocean kubernetes — Part 1"
+    url: https://medium.com/coding-monk/deploying-laravel-application-to-digital-ocean-kubernetes-part-1-bde51b661316
+    type: REFERENCE
+  - name: "Deploying laravel application to Digital ocean kubernetes — Part 2"
+    url: https://medium.com/@codingmonk.tech/deploying-laravel-application-to-digital-ocean-kubernetes-part-2-5a9e2446e7c6
+    type: REFERENCE
+  - name: "Deploying laravel application to Digital ocean kubernetes — Part 3"
+    url: https://medium.com/@codingmonk.tech/deploying-laravel-application-to-digital-ocean-kubernetes-part-3-e9fcfae99735
+    type: REFERENCE
+  - name: "Be fast with Kubectl 1.18 CKAD/CKA"
+    name: https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
+    type: REFERENCE
+  - name: "Corona Tracker"
+    url: https://github.com/mhdhejazi/CoronaTracker/
+    type: SOURCE_CODE_REPO
