@@ -22,23 +22,32 @@ resources:
     url: https://thenewstack.io/kudo-automates-kubernetes-operators/
   - name: "Snyk Brings Its DevOps Security Sweep to Red Hat OpenShift"
     url: https://thenewstack.io/snyk-brings-its-devops-security-sweep-to-red-hat-openshift/
+  - name: Versionamiento en tags de imagenes OCI
+    url: https://twitter.com/thockin/status/1256307316292386817
+    type: TWEET
   - name: "Time Based Scaling for Kubernetes Deployments"
     url: https://medium.com/symbl-ai-engineering-and-data-science/time-based-scaling-for-kubernetes-deployments-9ef7ada93eb7
     type: REFERENCE
   - name: "Top 7 GitHub Actions best practices guide"
     url: https://www.datree.io/resources/github-actions-best-practices
     type: REFERENCE
-  - name: "Deploying laravel application to Digital ocean kubernetes — Part 1"
+  - name: "Deploying laravel application to Digital Ocean Kubernetes — Part 1"
     url: https://medium.com/coding-monk/deploying-laravel-application-to-digital-ocean-kubernetes-part-1-bde51b661316
     type: REFERENCE
-  - name: "Deploying laravel application to Digital ocean kubernetes — Part 2"
+  - name: "Deploying laravel application to Digital Ocean Kubernetes — Part 2"
     url: https://medium.com/@codingmonk.tech/deploying-laravel-application-to-digital-ocean-kubernetes-part-2-5a9e2446e7c6
     type: REFERENCE
-  - name: "Deploying laravel application to Digital ocean kubernetes — Part 3"
+  - name: "Deploying laravel application to Digital Ocean Kubernetes — Part 3"
     url: https://medium.com/@codingmonk.tech/deploying-laravel-application-to-digital-ocean-kubernetes-part-3-e9fcfae99735
     type: REFERENCE
   - name: "Be fast with Kubectl 1.18 CKAD/CKA"
     name: https://medium.com/faun/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
+    type: REFERENCE
+  - name: "What is a 'real' SRE?"
+    url: https://www.blameless.com/thought-leadership-panel-real-sre/
+    type: REFERENCE
+  - name: "Pre-requisites to Practicing Reliability?"
+    url: https://medium.com/chaosiq/pre-requisites-to-practicing-reliability-23b9a459e1bd
     type: REFERENCE
   - name: "Corona Tracker"
     url: https://github.com/mhdhejazi/CoronaTracker/
