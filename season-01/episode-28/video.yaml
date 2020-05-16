@@ -1,0 +1,37 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: "Podcast S01-E28"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "KubeCon & CloudNativeCon Europe 2020 Virtual"
+    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+  - name: "New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more"
+    url: https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/
+  - name: "Analyzing Docker Image Security"
+    url: https://martinheinz.dev/blog/19
+    type: REFERENCE
+  - name: "Rolling Update Deployment Strategy in Kubernetes"
+    url: https://medium.com/faun/rolling-update-deployment-strategy-in-kubernetes-25e5b1566dd3
+    type: REFERENCE
+  - name: "Seccomp in Kubernetes — Part I: 7 things you should know before you even start!"
+    url: https://itnext.io/seccomp-in-kubernetes-part-i-7-things-you-should-know-before-you-even-start-97502ad6b6d6
+    type: REFERENCE
+  - name: "DevNation Master Course"
+    url: https://developers.redhat.com/devnation/master-course/
+    type: REFERENCE
+  - name: "A static type analyzer for Python code"
+    url: https://github.com/google/pytype
+    type: SOURCE_CODE_REPO
