@@ -29,6 +29,12 @@ resources:
   - name: "Seccomp in Kubernetes — Part I: 7 things you should know before you even start!"
     url: https://itnext.io/seccomp-in-kubernetes-part-i-7-things-you-should-know-before-you-even-start-97502ad6b6d6
     type: REFERENCE
+  - name: "What is Service Mesh?"
+    url: https://www.solo.io/solutions/service-mesh/
+    type: REFERENCE
+  - name: "Deploy AWS EKS Fargate Cluster"
+    url: https://medium.com/@sabyasachibhattacharya/deploy-aws-eks-fargate-cluster-beb2f6d3583d
+    type: REFERENCE
   - name: "DevNation Master Course"
     url: https://developers.redhat.com/devnation/master-course/
     type: REFERENCE
