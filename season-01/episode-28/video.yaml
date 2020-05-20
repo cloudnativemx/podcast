@@ -41,3 +41,6 @@ resources:
   - name: "A static type analyzer for Python code"
     url: https://github.com/google/pytype
     type: SOURCE_CODE_REPO
+  - name: ""
+    url: https://cloud.withgoogle.com/next/sf
+    type: EVENT
