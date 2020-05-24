@@ -1,0 +1,46 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: "Podcast S01-E29"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "Operators and Sidecars Are the New Model for Software Delivery"
+    url: https://thenewstack.io/operators-and-sidecars-are-the-new-model-for-software-delivery/
+  - name: "CNCF: 2020 Sponsorship Prospectus"
+    url: https://events.linuxfoundation.org/wp-content/uploads/2020/05/sponsor-cncf-20200522.pdf
+  - name: "Operations Runbooks: Putting the Ops in DevOps"
+    url: https://octopus.com/blog/operations-runbooks
+    type: REFERENCE
+  - name: "The 10-Minute Read to Understanding DevOps Tools"
+    url: https://levelup.gitconnected.com/the-10-minute-read-to-understanding-devops-tools-bc4ac807a25d
+    type: REFERENCE
+  - name: "Operator Pattern: Kubernetes/Openshift"
+    url: https://medium.com/operators/operator-pattern-kubernetes-openshift-380ddc6a147c
+    TYPE: REFERENCE
+  - name: "Fargate vs Lambda"
+    url: https://www.trek10.com/blog/fargate-vs-lambda
+    type: REFERENCE
+  - name: "Kilo"
+    url: https://github.com/squat/kilo
+    type: SOURCE_CODE_REPO
+  - name: "Rich"
+    url: https://github.com/willmcgugan/rich
+    type: SOURCE_CODE_REPO
+  - name: "GitLab: Commit 2020"
+    url: https://about.gitlab.com/events/commit/
+    type: EVENT
+  - name: "The State of Cloud Native Security"
+    url: https://start.paloaltonetworks.com/state-of-cloud-native-security
+    type: EVENT
