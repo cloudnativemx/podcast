@@ -20,6 +20,8 @@ resources:
     url: https://thenewstack.io/operators-and-sidecars-are-the-new-model-for-software-delivery/
   - name: "CNCF: 2020 Sponsorship Prospectus"
     url: https://events.linuxfoundation.org/wp-content/uploads/2020/05/sponsor-cncf-20200522.pdf
+  - name: "Announcing Istio 1.6"
+    url: https://istio.io/news/releases/1.6.x/announcing-1.6/
   - name: "Operations Runbooks: Putting the Ops in DevOps"
     url: https://octopus.com/blog/operations-runbooks
     type: REFERENCE
