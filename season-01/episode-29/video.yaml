@@ -16,12 +16,14 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: "Announcing Istio 1.6"
+    url: https://istio.io/news/releases/1.6.x/announcing-1.6/
+  - name: "Harbor 2.0 Released"
+    url: https://goharbor.io/blog/harbor-2.0/
   - name: "Operators and Sidecars Are the New Model for Software Delivery"
     url: https://thenewstack.io/operators-and-sidecars-are-the-new-model-for-software-delivery/
   - name: "CNCF: 2020 Sponsorship Prospectus"
     url: https://events.linuxfoundation.org/wp-content/uploads/2020/05/sponsor-cncf-20200522.pdf
-  - name: "Announcing Istio 1.6"
-    url: https://istio.io/news/releases/1.6.x/announcing-1.6/
   - name: "Operations Runbooks: Putting the Ops in DevOps"
     url: https://octopus.com/blog/operations-runbooks
     type: REFERENCE
