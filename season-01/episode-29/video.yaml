@@ -34,7 +34,7 @@ resources:
     type: REFERENCE
   - name: "Operator Pattern: Kubernetes/Openshift"
     url: https://medium.com/operators/operator-pattern-kubernetes-openshift-380ddc6a147c
-    TYPE: REFERENCE
+    type: REFERENCE
   - name: "Fargate vs Lambda"
     url: https://www.trek10.com/blog/fargate-vs-lambda
     type: REFERENCE
