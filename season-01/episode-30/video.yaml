@@ -1,0 +1,44 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: "Podcast S01-E30"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "Priyanka Sharma Assumes Leadership of the Cloud Native Computing Foundation"
+    url: https://thenewstack.io/priyanka-sharma-assumes-leadership-of-the-cloud-native-computing-foundation/
+  - name: "This Week in Programming: Rust Remains the Most Beloved Language"
+    url: https://thenewstack.io/this-week-in-programming-rust-remains-the-most-beloved-language/
+  - name: "Introducing Java 11 on Google Cloud Functions"
+    url: https://cloud.google.com/blog/products/application-development/introducing-java-11-on-google-cloud-functions
+  - name: "Aqua Security Raises $30 Million"
+    url: https://www.aquasec.com/news/aqua-security-raises-30-million-series-d-funding/
+  - name: "JVM Ecosystem: Report 2020"
+    url: https://snyk.io/wp-content/uploads/jvm_2020.pdf
+    type: REFERENCE
+  - name: "Performant Containerized Go* Applications with Intel® Advanced Vector Extensions 512 on Clear Linux* OS"
+    url: https://clearlinux.org/blogs-news/performant-containerized-go-applications-intel-advanced-vector-extensions-512-clear
+    type: REFERENCE
+  - name: "Which programming language is fastest?"
+    url: https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+    type: REFERENCE
+  - name: "Tools for debugging apps on Google Kubernetes Engine" 
+    url: https://cloud.google.com/blog/products/containers-kubernetes/tools-for-debugging-apps-on-google-kubernetes-engine
+    type: REFERENCE
+  - name: "Service Mesh University by Aspen Mesh"
+    url: https://aspenmesh.io/service-mesh-university/
+    type: REFERENCE
+  - name: "Spotify TUI"
+    url: https://github.com/Rigellute/spotify-tui
+    type: SOURCE_CODE_REPO
