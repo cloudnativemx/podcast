@@ -16,13 +16,35 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
-  - name: ""
-    url: ""
-  - name: "When it’s not only about a Kubernetes CVE"
-    url: https://medium.com/@BreizhZeroDayHunters/when-its-not-only-about-a-kubernetes-cve-8f6b448eafa8
+  - name: "Honeycomb CEO Charity Majors on Sharing Customer Pain"
+    url: https://thenewstack.io/honeycomb-ceo-charity-majors-on-sharing-customer-pain/
+  - name: "France, Germany back European cloud computing 'moonshot'"
+    url: https://www.reuters.com/article/us-europe-tech/france-germany-back-european-cloud-computing-moonshot-idUSKBN23B26B
+  - name: "Alemania y Francia ultiman una plataforma europea de proveedores 'cloud' para eludir a Amazon, Microsoft y Google"
+    url: https://cincodias.elpais.com/cincodias/2020/06/04/companias/1591273229_337258.html
+  - name: "Meeting reliability challenges with SRE principles"
+    url: https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles
+    type: REFERENCE
+  - name: "Meaningful availability: How many nines do you actually need?"
+    url: https://techbeacon.com/enterprise-it/meaningful-availability-how-many-nines-do-you-actually-need
     type: REFERENCE
   - name: "Supporting the Evolving Ingress Specification in Kubernetes 1.18"
     url: https://kubernetes.io/blog/2020/06/05/supporting-the-evolving-ingress-specification-in-kubernetes-1.18/
+    type: REFERENCE
+  - name: "When it’s not only about a Kubernetes CVE"
+    url: https://medium.com/@BreizhZeroDayHunters/when-its-not-only-about-a-kubernetes-cve-8f6b448eafa8
+    type: REFERENCE
+  - name: "Mitigating CVE-2020-10749 in Kubernetes Environments"
+    url: https://www.stackrox.com/post/2020/06/mitigating-kubernetes-cve-2020-10749/
+    type: REFERENCE
+  - name: "Breaking Changes in Helm 3 (and How to Fix Them)"
+    url: https://itnext.io/breaking-changes-in-helm-3-and-how-to-fix-them-39fea23e06ff
+    type: REFERENCE
+  - name: "An Introduction to CI, with Comparison of 17 Major CI Tools in 2020, and How to Choose the best CI"
+    url: https://medium.com/devops-dudes/an-introduction-to-ci-with-comparison-of-17-major-ci-tools-in-2020-and-how-to-choose-the-best-ci-b0cc4ec4f95
+    type: REFERENCE
+  - name: "What changes with Certified Kubernetes Administrator (CKA) in September 2020?"
+    url: https://nativecloud.dev/what-changes-with-certified-kubernetes-administrator-in-september-2020/
     type: REFERENCE
   - name: "kail: kubernetes tail"
     url: https://github.com/boz/kail
