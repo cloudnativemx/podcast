@@ -27,6 +27,7 @@ resources:
     type: REFERENCE
   - name: "Meaningful availability: How many nines do you actually need?"
     url: https://techbeacon.com/enterprise-it/meaningful-availability-how-many-nines-do-you-actually-need
+    type: REFERENCE
   - name: ""
     url: ""
     type: SOURCE_CODE_REPO
