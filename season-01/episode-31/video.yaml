@@ -17,28 +17,10 @@ participants:
     company: Cloud Native MX
 resources:
   - name: ""
-    url: https://www.cncf.io/announcement/2020/06/01/priyanka-sharma-joins-cncf-as-general-manager/
-  - name: "This Week in Programming: Rust Remains the Most Beloved Language"
-    url: https://thenewstack.io/this-week-in-programming-rust-remains-the-most-beloved-language/
-  - name: "Introducing Java 11 on Google Cloud Functions"
-    url: https://cloud.google.com/blog/products/application-development/introducing-java-11-on-google-cloud-functions
-  - name: "Aqua Security Raises $30 Million"
-    url: https://www.aquasec.com/news/aqua-security-raises-30-million-series-d-funding/
-  - name: "JVM Ecosystem: Report 2020"
-    url: https://snyk.io/wp-content/uploads/jvm_2020.pdf
+    url: ""
+  - name: ""
+    url: ""
     type: REFERENCE
-  - name: "Performant Containerized Go* Applications with Intel® Advanced Vector Extensions 512 on Clear Linux* OS"
-    url: https://clearlinux.org/blogs-news/performant-containerized-go-applications-intel-advanced-vector-extensions-512-clear
-    type: REFERENCE
-  - name: "Which programming language is fastest?"
-    url: https://benchmarksgame-team.pages.debian.net/benchmarksgame/
-    type: REFERENCE
-  - name: "Tools for debugging apps on Google Kubernetes Engine" 
-    url: https://cloud.google.com/blog/products/containers-kubernetes/tools-for-debugging-apps-on-google-kubernetes-engine
-    type: REFERENCE
-  - name: "Service Mesh University by Aspen Mesh"
-    url: https://aspenmesh.io/service-mesh-university/
-    type: REFERENCE
-  - name: "Spotify TUI"
-    url: https://github.com/Rigellute/spotify-tui
+  - name: ""
+    url: ""
     type: SOURCE_CODE_REPO
