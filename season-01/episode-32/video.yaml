@@ -1,0 +1,39 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: "Podcast S01-E32"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "Introducing the CNCF Technology Radar"
+    url: https://www.cncf.io/blog/2020/06/12/introducing-the-cncf-technology-radar/
+  - name: "Google internships go virtual with the help of open source"
+    url: https://www.blog.google/inside-google/working-google/google-internships-go-virtual-help-open-source/
+  - name: "CVE-2020-8555: Half-Blind SSRF in kube-controller-manager"
+    url: https://github.com/kubernetes/kubernetes/issues/91542/
+  - name: "CNCF and Linux Foundation Announce New Cloud Engineer Bootcamp"
+    url: https://www.cncf.io/blog/2020/06/03/cncf-and-linux-foundation-announce-new-cloud-engineer-bootcamp/
+  - name: "PDF: Launching the CNCF Technology Radar"
+    url: https://github.com/cncf/enduser-public/blob/master/CNCFTechnologyRadar.pdf
+  - name: "Software Package Management with AWS CodeArtifact"
+    url: https://aws.amazon.com/blogs/aws/software-package-management-with-aws-codeartifact/
+  - name: "Google Anthos from the Eyes of a Kubernetes Developer"
+    url: https://thenewstack.io/google-anthos-from-the-eyes-of-a-kubernetes-developer/
+    type: REFERENCE
+  - name: "Cluster Turndown"
+    url: https://github.com/kubecost/cluster-turndown
+    type: SOURCE_CODE_REPO
+  - name: "HashiConf Digital"
+    url: https://www.hashicorp.com/blog/hashiconf-digital-a-new-kind-of-hashicorp-community-experience/
+    type: EVENT
