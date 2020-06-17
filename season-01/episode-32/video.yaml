@@ -24,6 +24,8 @@ resources:
     url: https://github.com/kubernetes/kubernetes/issues/91542/
   - name: "CNCF and Linux Foundation Announce New Cloud Engineer Bootcamp"
     url: https://www.cncf.io/blog/2020/06/03/cncf-and-linux-foundation-announce-new-cloud-engineer-bootcamp/
+  - name: "Kubernetes Starboard Project Offers Security Scanning from Kubectl"
+    url: https://thenewstack.io/kubernetes-starboard-project-offers-security-scanning-from-kubectl/
   - name: "PDF: Launching the CNCF Technology Radar"
     url: https://github.com/cncf/enduser-public/blob/master/CNCFTechnologyRadar.pdf
   - name: "Software Package Management with AWS CodeArtifact"
@@ -31,8 +33,20 @@ resources:
   - name: "Google Anthos from the Eyes of a Kubernetes Developer"
     url: https://thenewstack.io/google-anthos-from-the-eyes-of-a-kubernetes-developer/
     type: REFERENCE
+  - name: "Record DDoS Attack Hits AWS: 2.3 Tbps Assault Lasted Days"
+    url: https://www.cbronline.com/news/record-ddos-attack-aws
+    type: REFERENCE
+  - name: "How to get the CKAD certificate"
+    url: https://medium.com/@luongvinhthao/how-to-get-the-ckad-certificate-5aeb5cc0acca
+    type: REFERENCE
+  - name: "CKAD Preparation and Tips"
+    url: https://medium.com/@shahrukh.mansoori/ckad-preparation-and-tips-a3469d334049
+    type: REFERENCE
   - name: "Cluster Turndown"
     url: https://github.com/kubecost/cluster-turndown
+    type: SOURCE_CODE_REPO
+  - name: "Gravity"
+    url: https://github.com/gravitational/gravity
     type: SOURCE_CODE_REPO
   - name: "HashiConf Digital"
     url: https://www.hashicorp.com/blog/hashiconf-digital-a-new-kind-of-hashicorp-community-experience/
