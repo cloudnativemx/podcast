@@ -32,6 +32,8 @@ resources:
     url: https://aws.amazon.com/blogs/aws/software-package-management-with-aws-codeartifact/
   - name: "GitHub to replace "master" with alternative term to avoid slavery references"
     url: https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/  
+  - name: "The Linux Foundation Brings Together IT and Finance Teams to Advance Cloud Financial Management and Education"
+    url: https://www.linuxfoundation.org/press-release/2020/06/the-linux-foundation-brings-together-it-and-finance-teams-to-advance-cloud-financial-management-and-education/
   - name: "Google Anthos from the Eyes of a Kubernetes Developer"
     url: https://thenewstack.io/google-anthos-from-the-eyes-of-a-kubernetes-developer/
     type: REFERENCE
