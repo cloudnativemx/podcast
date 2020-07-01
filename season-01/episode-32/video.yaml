@@ -2,7 +2,7 @@
 id: goo
 showName: Cloud Native México
 showTitle: "Podcast S01-E32"
-showSubtitle: ""
+showSubtitle: "Nuevos proyectos en la CNCF & Google adapta internships a la nueva normalidad."
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -18,6 +18,8 @@ participants:
 resources:
   - name: "Introducing the CNCF Technology Radar"
     url: https://www.cncf.io/blog/2020/06/12/introducing-the-cncf-technology-radar/
+  - name: "PDF: Launching the CNCF Technology Radar"
+    url: https://github.com/cncf/enduser-public/blob/master/CNCFTechnologyRadar.pdf
   - name: "Google internships go virtual with the help of open source"
     url: https://www.blog.google/inside-google/working-google/google-internships-go-virtual-help-open-source/
   - name: "CVE-2020-8555: Half-Blind SSRF in kube-controller-manager"
@@ -26,10 +28,10 @@ resources:
     url: https://www.cncf.io/blog/2020/06/03/cncf-and-linux-foundation-announce-new-cloud-engineer-bootcamp/
   - name: "Kubernetes Starboard Project Offers Security Scanning from Kubectl"
     url: https://thenewstack.io/kubernetes-starboard-project-offers-security-scanning-from-kubectl/
-  - name: "PDF: Launching the CNCF Technology Radar"
-    url: https://github.com/cncf/enduser-public/blob/master/CNCFTechnologyRadar.pdf
   - name: "Software Package Management with AWS CodeArtifact"
     url: https://aws.amazon.com/blogs/aws/software-package-management-with-aws-codeartifact/
+  - name: "GitHub to replace "master" with alternative term to avoid slavery references"
+    url: https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/  
   - name: "Google Anthos from the Eyes of a Kubernetes Developer"
     url: https://thenewstack.io/google-anthos-from-the-eyes-of-a-kubernetes-developer/
     type: REFERENCE
@@ -47,6 +49,9 @@ resources:
     type: SOURCE_CODE_REPO
   - name: "Gravity"
     url: https://github.com/gravitational/gravity
+    type: SOURCE_CODE_REPO
+  - name: "Docker Compose Prometheus Service Discovery."
+    url: https://github.com/juliofalbo/docker-compose-prometheus-service-discovery
     type: SOURCE_CODE_REPO
   - name: "HashiConf Digital"
     url: https://www.hashicorp.com/blog/hashiconf-digital-a-new-kind-of-hashicorp-community-experience/
