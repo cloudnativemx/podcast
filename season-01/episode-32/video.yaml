@@ -1,6 +1,6 @@
 !!obs.util.model.Video
 id: goo
-showName: Cloud Native México
+showName: "Cloud Native México"
 showTitle: "Podcast S01-E32"
 showSubtitle: "Nuevos proyectos en la CNCF & Google adapta internships a la nueva normalidad."
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
@@ -30,7 +30,7 @@ resources:
     url: https://thenewstack.io/kubernetes-starboard-project-offers-security-scanning-from-kubectl/
   - name: "Software Package Management with AWS CodeArtifact"
     url: https://aws.amazon.com/blogs/aws/software-package-management-with-aws-codeartifact/
-  - name: "GitHub to replace "master" with alternative term to avoid slavery references"
+  - name: "GitHub to replace 'master' with alternative term to avoid slavery references"
     url: https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/  
   - name: "The Linux Foundation Brings Together IT and Finance Teams to Advance Cloud Financial Management and Education"
     url: https://www.linuxfoundation.org/press-release/2020/06/the-linux-foundation-brings-together-it-and-finance-teams-to-advance-cloud-financial-management-and-education/
