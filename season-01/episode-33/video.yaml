@@ -1,8 +1,8 @@
 !!obs.util.model.Video
 id: goo
 showName: "Cloud Native México"
-showTitle: "Podcast S01-E32"
-showSubtitle: "Nuevos proyectos en la CNCF & Google adapta internships a la nueva normalidad."
+showTitle: "Podcast S01-E33"
+showSubtitle: ""
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -16,45 +16,14 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
-  - name: "Introducing the CNCF Technology Radar"
-    url: https://www.cncf.io/blog/2020/06/12/introducing-the-cncf-technology-radar/
-  - name: "PDF: Launching the CNCF Technology Radar"
-    url: https://github.com/cncf/enduser-public/blob/master/CNCFTechnologyRadar.pdf
-  - name: "Google internships go virtual with the help of open source"
-    url: https://www.blog.google/inside-google/working-google/google-internships-go-virtual-help-open-source/
-  - name: "CVE-2020-8555: Half-Blind SSRF in kube-controller-manager"
-    url: https://github.com/kubernetes/kubernetes/issues/91542/
-  - name: "CNCF and Linux Foundation Announce New Cloud Engineer Bootcamp"
-    url: https://www.cncf.io/blog/2020/06/03/cncf-and-linux-foundation-announce-new-cloud-engineer-bootcamp/
-  - name: "Kubernetes Starboard Project Offers Security Scanning from Kubectl"
-    url: https://thenewstack.io/kubernetes-starboard-project-offers-security-scanning-from-kubectl/
-  - name: "Software Package Management with AWS CodeArtifact"
-    url: https://aws.amazon.com/blogs/aws/software-package-management-with-aws-codeartifact/
-  - name: "GitHub to replace 'master' with alternative term to avoid slavery references"
-    url: https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/  
-  - name: "The Linux Foundation Brings Together IT and Finance Teams to Advance Cloud Financial Management and Education"
-    url: https://www.linuxfoundation.org/press-release/2020/06/the-linux-foundation-brings-together-it-and-finance-teams-to-advance-cloud-financial-management-and-education/
-  - name: "Google Anthos from the Eyes of a Kubernetes Developer"
-    url: https://thenewstack.io/google-anthos-from-the-eyes-of-a-kubernetes-developer/
+  - name: ""
+    url: ""
+  - name: ""
+    url: ""
     type: REFERENCE
-  - name: "Record DDoS Attack Hits AWS: 2.3 Tbps Assault Lasted Days"
-    url: https://www.cbronline.com/news/record-ddos-attack-aws
-    type: REFERENCE
-  - name: "How to get the CKAD certificate"
-    url: https://medium.com/@luongvinhthao/how-to-get-the-ckad-certificate-5aeb5cc0acca
-    type: REFERENCE
-  - name: "CKAD Preparation and Tips"
-    url: https://medium.com/@shahrukh.mansoori/ckad-preparation-and-tips-a3469d334049
-    type: REFERENCE
-  - name: "Cluster Turndown"
-    url: https://github.com/kubecost/cluster-turndown
+  - name: ""
+    url: ""
     type: SOURCE_CODE_REPO
-  - name: "Gravity"
-    url: https://github.com/gravitational/gravity
-    type: SOURCE_CODE_REPO
-  - name: "Docker Compose Prometheus Service Discovery."
-    url: https://github.com/juliofalbo/docker-compose-prometheus-service-discovery
-    type: SOURCE_CODE_REPO
-  - name: "HashiConf Digital"
-    url: https://www.hashicorp.com/blog/hashiconf-digital-a-new-kind-of-hashicorp-community-experience/
+  - name: ""
+    url: ""
     type: EVENT
