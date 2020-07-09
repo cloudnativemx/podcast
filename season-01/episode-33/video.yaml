@@ -16,14 +16,24 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
-  - name: ""
-    url: ""
-  - name: ""
-    url: ""
-    type: REFERENCE
-  - name: ""
-    url: ""
+  - name: "SUSE to Acquire Rancher Labs"
+    url: https://rancher.com/press/suse-to-acquire-rancher/
+  - name: "Hearing rumors that @IstioMesh will be donated to a foundation next week"
+    url: https://mobile.twitter.com/wm/status/1279862013565349888
+  - name: "Google Launches Organization to Protect Trademarks for Istio, Angular and Other Open Source Projects"
+    url: https://thenewstack.io/google-launches-organization-to-protect-trademarks-for-istio-angular-and-other-open-source-projects/
+  - name: "Cloud Native Computing Foundation Announces Harbor Graduation"
+    url: https://www.cncf.io/announcement/2020/06/23/cloud-native-computing-foundation-announces-harbor-graduation/
+  - name: "OC: Supporting each other to make an impact"
+    url: https://www.digitalocean.com/community/pages/hub-for-good
+  - name: "Bayer Crop Science seeds the future with 15000-node GKE clusters"
+    url: https://cloud.google.com/blog/products/containers-kubernetes/google-kubernetes-engine-clusters-can-have-up-to-15000-nodes
+  - name: "Google Cloud VMware Engine is now generally available"
+    url: https://cloud.google.com/blog/topics/hybrid-cloud/google-cloud-vmware-engine-is-generally-available
+  - name: "Including everyone at Google Cloud Next ’20: OnAir"
+    url: https://cloud.google.com/blog/topics/google-cloud-next/diversity-equity-and-inclusion-sessions-at-next20-onair
+  - name: "We’ve Raised $27 Million in New Funding, Here’s How We’re Investing It"
+    url: https://codefresh.io/codefresh-news/2020-funding-annoucement/
+  - name: "Alcide kAudit"
+    url: https://github.com/alcideio/kaudit
     type: SOURCE_CODE_REPO
-  - name: ""
-    url: ""
-    type: EVENT
