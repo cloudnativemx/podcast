@@ -37,3 +37,6 @@ resources:
   - name: "Alcide kAudit"
     url: https://github.com/alcideio/kaudit
     type: SOURCE_CODE_REPO
+  - name: "Katalog is an API Registry."
+    url: https://github.com/bolcom/katalog
+    type: SOURCE_CODE_REPO
