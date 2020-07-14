@@ -16,8 +16,13 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
-  - name: ""
-    url: ""
+  - name: "Cloud Native Computing Foundation Takes Charge of Red Hat’s Operator Framework"
+    url: https://thenewstack.io/cloud-native-computing-foundation-takes-charge-of-red-hats-operator-framework/
+  - name: "KubeCon + CloudNativeCon North America 2020 is now an online experience"
+    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/virtual-event-update/
+  - name: "Setting SLOs: a step-by-step guide"
+    url: https://cloud.google.com/blog/products/management-tools/practical-guide-to-setting-slos
+    type: REFERENCE
   - name: "Announcing the New Version of the Well-Architected Framework"
     url: https://aws.amazon.com/blogs/architecture/announcing-the-new-version-of-the-well-architected-framework/
     type: REFERENCE
