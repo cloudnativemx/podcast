@@ -20,6 +20,11 @@ resources:
     url: https://thenewstack.io/cloud-native-computing-foundation-takes-charge-of-red-hats-operator-framework/
   - name: "KubeCon + CloudNativeCon North America 2020 is now an online experience"
     url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/virtual-event-update/
+  - name: "Will 2020 Be The Year Of Rust In The Linux Kernel?"
+    url: https://hackaday.com/2020/07/15/will-2020-be-the-year-of-rust-in-the-linux-kernel/
+  - name: "Netflix moved to Kubernetes"
+    url: https://twitter.com/aspyker/status/1283836267646431234
+    type: TWEET
   - name: "Setting SLOs: a step-by-step guide"
     url: https://cloud.google.com/blog/products/management-tools/practical-guide-to-setting-slos
     type: REFERENCE
