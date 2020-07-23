@@ -22,6 +22,8 @@ resources:
     url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/virtual-event-update/
   - name: "Will 2020 Be The Year Of Rust In The Linux Kernel?"
     url: https://hackaday.com/2020/07/15/will-2020-be-the-year-of-rust-in-the-linux-kernel/
+  - name: "Site Reliability Engineering (SRE) 101 with DevOps vs SRE"
+    url: https://www.cncf.io/blog/2020/07/17/site-reliability-engineering-sre-101-with-devops-vs-sre/
   - name: "Netflix moved to Kubernetes"
     url: https://twitter.com/aspyker/status/1283836267646431234
     type: TWEET
