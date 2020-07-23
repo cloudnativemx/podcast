@@ -2,7 +2,7 @@
 id: goo
 showName: "Cloud Native México"
 showTitle: "Podcast S01-E34"
-showSubtitle: ""
+showSubtitle: "CNCF sigue creciendo, también Kubernetes en Netflix y Rust en el Linux kernel"
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
