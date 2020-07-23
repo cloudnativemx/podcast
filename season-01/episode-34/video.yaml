@@ -28,6 +28,9 @@ resources:
   - name: "Setting SLOs: a step-by-step guide"
     url: https://cloud.google.com/blog/products/management-tools/practical-guide-to-setting-slos
     type: REFERENCE
+  - name: "GKE best practices: Exposing GKE applications through Ingress and Services"
+    url: https://cloud.google.com/blog/products/containers-kubernetes/exposing-services-on-gke
+    type: REFERENCE
   - name: "Announcing the New Version of the Well-Architected Framework"
     url: https://aws.amazon.com/blogs/architecture/announcing-the-new-version-of-the-well-architected-framework/
     type: REFERENCE
