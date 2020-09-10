@@ -20,7 +20,8 @@ resources:
     url: https://www.solo.io/blog/introducing-gloo-federation-for-multi-cluster-management/
   - name: "New Relic Changes Business Model, Open Sources Agents and Instrumentation"
     url: https://thenewstack.io/new-relic-changes-business-model-open-sources-agents-and-instrumentation/
-    type: TWEET
+  - name: "Introducing the new Istio steering committee"
+    url: https://istio.io/latest/blog/2020/steering-changes/
   - name: "Learn From 20 Free Interactive Tutorials As Presented At HashiConf Digital"
     url: https://www.hashicorp.com/blog/hashicorp-tutorials-hashiconf-digital-2020/
     type: REFERENCE
@@ -30,12 +31,15 @@ resources:
   - name: "Knative on Alibaba Cloud: The Ultimate Serverless Experience"
     url: https://www.alibabacloud.com/blog/knative-on-alibaba-cloud-the-ultimate-serverless-experience_596303
     type: REFERENCE
+  - name: "Introducing Open Service Mesh"
+    url: https://openservicemesh.io/blog/introducing-open-service-mesh/
+    type: REFERENCE
   - name: "Announcing Chaos Mesh® as a CNCF Sandbox Project"
     url: https://medium.com/@PingCAP/announcing-chaos-mesh-as-a-cncf-sandbox-project-94ed8faed6ca
+    type: REFERENCE
+  - name: "5 Key Ways the Kubernetes Architecture Has Evolved in 5 Years"
+    url: https://www.itprotoday.com/hybrid-cloud/5-key-ways-kubernetes-architecture-has-evolved-5-years
     type: REFERENCE
   - name: "kiosk"
     url: https://github.com/kiosk-sh/kiosk
     type: SOURCE_CODE_REPO
-  - name: "AWS Container Day at KubeCon Europe"
-    url: https://awscontainerday.splashthat.com/
-    type: EVENT
