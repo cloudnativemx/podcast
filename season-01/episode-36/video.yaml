@@ -41,3 +41,6 @@ resources:
   - name: "An open-source GitLab command line tool"
     url: https://github.com/profclems/glab
     type: SOURCE_CODE_REPO
+  - name: "Disk Usage/Free Utility"
+    url: https://github.com/muesli/duf
+    type: SOURCE_CODE_REPO
