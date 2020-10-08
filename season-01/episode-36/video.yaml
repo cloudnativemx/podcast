@@ -2,7 +2,7 @@
 id: goo
 showName: "Cloud Native México"
 showTitle: "Podcast S01-E36"
-showSubtitle: ""
+showSubtitle: "Rook se gradua, gRPC puede masificarse & Mejores practicas de seguridad"
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -31,12 +31,12 @@ resources:
   - name: "Best Practices Implementing Zero Trust"
     url: https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/best-practices/10-0/zero-trust-best-practices/zero-trust-best-practices.pdf
     type: REFERENCE
-  - name: "Palinurus"
-    url: https://github.com/mailchannels/palinurus
-    type: SOURCE_CODE_REPO
   - name: "KubeCon + CloudNativeCon North America 2020"
     url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
     type: EVENT
+  - name: "Palinurus"
+    url: https://github.com/mailchannels/palinurus
+    type: SOURCE_CODE_REPO
   - name: "A terminal interface for Stack Overflow"
     url: "https://github.com/samtay/so"
     type: SOURCE_CODE_REPO
