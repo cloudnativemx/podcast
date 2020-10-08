@@ -31,9 +31,6 @@ resources:
   - name: "Best Practices Implementing Zero Trust"
     url: https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/best-practices/10-0/zero-trust-best-practices/zero-trust-best-practices.pdf
     type: REFERENCE
-  - name: "KubeCon + CloudNativeCon North America 2020"
-    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
-    type: EVENT
   - name: "Palinurus"
     url: https://github.com/mailchannels/palinurus
     type: SOURCE_CODE_REPO
