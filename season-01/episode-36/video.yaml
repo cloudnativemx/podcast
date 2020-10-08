@@ -38,3 +38,6 @@ resources:
   - name: "A terminal interface for Stack Overflow"
     url: "https://github.com/samtay/so"
     type: SOURCE_CODE_REPO
+  - name: ""
+    url: https://github.com/profclems/glab
+    type: SOURCE_CODE_REPO
