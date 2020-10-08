@@ -20,6 +20,8 @@ resources:
     url: "https://blog.cloudflare.com/announcing-grpc/"
   - name: "Rook Graduation"
     url: https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/
+  - name: "Microservices guru says think serverless, not Kubernetes: You don't want to manage 'a towering edifice of stuff'"
+    url: https://www.theregister.com/2020/09/22/microservices_talk_gotopia/
   - name: "Rust in AWS"
     url: https://twitter.com/jonhoo/status/1307423094097625088
     type: TWEET
