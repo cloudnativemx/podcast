@@ -18,9 +18,23 @@ participants:
 resources:
   - name: "CloudFlare: Announcing support for gRPC"
     url: "https://blog.cloudflare.com/announcing-grpc/"
-  - name: ""
-    url: ""
+  - name: "Rook Graduation"
+    url: https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/
+  - name: "Rust in AWS"
+    url: https://twitter.com/jonhoo/status/1307423094097625088
+    type: TWEET
+  - name: "HashiCorp: Announcing New Collections on HashiCorp Learn"
+    url: https://www.hashicorp.com/blog/announcing-new-collections-on-hashicorp-learn/
     type: REFERENCE
+  - name: "Best Practices Implementing Zero Trust"
+    url: https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/best-practices/10-0/zero-trust-best-practices/zero-trust-best-practices.pdf
+    type: REFERENCE
+  - name: "Palinurus"
+    url: https://github.com/mailchannels/palinurus
+    type: SOURCE_CODE_REPO
+  - name: "KubeCon + CloudNativeCon North America 2020"
+    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+    type: EVENT
   - name: "A terminal interface for Stack Overflow"
     url: "https://github.com/samtay/so"
     type: SOURCE_CODE_REPO
