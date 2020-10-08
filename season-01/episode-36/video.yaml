@@ -34,9 +34,6 @@ resources:
   - name: "Palinurus"
     url: https://github.com/mailchannels/palinurus
     type: SOURCE_CODE_REPO
-  - name: "KubeCon + CloudNativeCon North America 2020"
-    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
-    type: EVENT
   - name: "A terminal interface for Stack Overflow"
     url: "https://github.com/samtay/so"
     type: SOURCE_CODE_REPO
@@ -46,3 +43,6 @@ resources:
   - name: "Disk Usage/Free Utility"
     url: https://github.com/muesli/duf
     type: SOURCE_CODE_REPO
+  - name: "KubeCon + CloudNativeCon North America 2020"
+    url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+    type: EVENT
