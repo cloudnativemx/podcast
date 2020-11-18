@@ -1,0 +1,63 @@
+!!obs.util.model.Video
+id: goo
+showName: Cloud Native México
+showTitle: "Podcast S01-E25"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: ""
+    url: 
+  - name: "LogDNA Moves to Rust-Based Agents for Speedier Logging"
+    url: https://thenewstack.io/logdna-moves-to-rust-based-agents-for-speedier-logging/
+  - name: "Falco Support on AWS Fargate"
+    url: https://sysdig.com/blog/falco-support-on-aws-fargate/
+  - name: "TOC Welcomes Argo into the CNCF Incubator"
+    url: https://www.cncf.io/blog/2020/04/07/toc-welcomes-argo-into-the-cncf-incubator/
+  - name: "TOC Votes to Move Dragonfly into CNCF Incubator"
+    url: https://www.cncf.io/blog/2020/04/09/toc-votes-to-move-dragonfly-into-cncf-incubator/
+  - name: "Jack Ma Foundation Shares Coronavirus-Prevention Handbook"
+    url: https://www.alizila.com/jack-ma-foundation-shares-coronavirus-prevention-handbook/
+    type: REFERENCE
+  - name: "Learn how to deploy Prometheus in K8s in 5 minutes"
+    url: https://medium.com/python-for-the-utopian/learn-how-to-deploy-prometheus-in-k8s-in-5-minutes-99562d8a1940
+    type: REFERENCE
+  - name: "Resilience Engineering & DevOps Part I: Where Complex Systems Fail"
+    url: https://thechief.io/c/editorial/resilience-engineering-devops-part-i-where-complex-systems-fail/
+    type: REFERENCE
+  - name: "Resilience Engineering and DevOps Part II: DevOps at the service of resilience"
+    url: https://thechief.io/c/editorial/resilience-engineering-devops-part-i-where-complex-systems-fail/
+    type: REFERENCE
+  - name: "Resilience Engineering & DevOps Part III: DevOps and Building a Culture of Resilience"
+    url: https://thechief.io/c/editorial/resilience-engineering-devops-part-iii-building-culture-resilience/
+    type: REFERENCE
+  - name: "Putting customers first with SLIs and SLOs"
+    url: https://medium.com/the-telegraph-engineering/putting-customers-first-with-slis-and-slos-15352f9b6cbc
+    type: REFERENCE
+  - name: "Putting customers first with SLIs and SLOs (Part 2)"
+    url: https://medium.com/the-telegraph-engineering/putting-customers-first-with-slis-and-slos-part-2-6b5c2452aecd
+    type: REFERENCE
+  - name: "Cloud Nuke"
+    url: https://github.com/gruntwork-io/cloud-nuke
+    type: SOURCE_CODE_REPO
+  - name: "SAWS"
+    url: https://github.com/donnemartin/saws
+    type: SOURCE_CODE_REPO
+  - name: "10 conferences in April you can attend from home 🏡"
+    url: https://dev.to/tbublik/10-conferences-in-april-you-can-attend-from-home-5d14
+  - name: "AWS Online Tech Talks for April 2020"
+    url: https://aws.amazon.com/blogs/aws/aws-online-tech-talks-for-april-2020/
+    type: EVENT
+  - name: "Managing infrastructure through GitOps with GitLab and Anthos"
+    url: https://about.gitlab.com/webcast/gitops-gitlab-anthos/
+    type: EVENT
