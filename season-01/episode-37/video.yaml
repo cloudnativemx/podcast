@@ -2,7 +2,7 @@
 id: goo
 showName: "Cloud Native México"
 showTitle: "Podcast S01-E37"
-showSubtitle: ""
+showSubtitle: "Arranca la KubeCon NA 2020 y esta vez extrañaremos a alguien"
 logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
 participants:
   - name: Marco Antonio Muñiz
@@ -16,6 +16,8 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: "An Open Source Leader Is Gone, a Remembrance of Dan Kohn"
+    url: https://thenewstack.io/an-open-source-leader-is-gone-a-remembrance-of-dan-kohn/
   - name: "Helm 2 and the Charts Project Are Now Unsupported"
     url: https://helm.sh/blog/helm-2-becomes-unsupported/
   - name: "AWS Distro for OpenTelemetry"
