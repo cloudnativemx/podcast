@@ -1,0 +1,44 @@
+!!obs.util.model.Video
+id: goo
+showName: "Cloud Native México"
+showTitle: "Podcast S01-E37"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "AWS Distro for OpenTelemetry"
+    url: https://aws.amazon.com/blogs/aws/public-preview-aws-distro-open-telemetry/
+  - name: "Envoy Mobile joins the CNCF"
+    url: https://twitter.com/mattklein123/status/1328736884873302017?s=12
+    type: TWEET
+  - name: "2020 Open Source Jobs Report"
+    url: https://training.linuxfoundation.org/announcements/2020-open-source-jobs-report-reveals-spike-in-demand-for-devops-talent-continued-dearth-of-open-source-skills/
+    type: REFERENCE
+  - name: "Velero by Example"
+    url: https://john-tucker.medium.com/velero-by-example-460d5270ccc3
+    type: REFERENCE
+  - name: "Service Mesh Comparison"
+    url: https://consult-chandra.medium.com/service-mesh-comparison-12b8dd4d90ca
+    type: REFERENCE
+  - name: "StackRox KubeLinter"
+    url: https://thenewstack.io/stackrox-kubelinter-brings-security-linting-to-kubernetes/
+    type: REFERENCE
+  - name: "OpenKruise/Kruise"
+    url: https://github.com/openkruise/kruise
+    type: SOURCE_CODE_REPO
+  - name: "Google Cloud Developer Days: App Modernization"
+    url: https://cloudonair.withgoogle.com/events/developer-days-app-mod-amer-20-2
+    type: EVENT
+  - name: "AWS re:Invent 2020"
+    url: https://reinvent.awsevents.com/
+    type: EVENT
