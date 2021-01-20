@@ -1,0 +1,38 @@
+!!obs.util.model.Video
+id: goo
+showName: "Cloud Native México"
+showTitle: "Podcast S01-E38"
+showSubtitle: ""
+logoUrl: https://s3.amazonaws.com/cloudnative.mx/media/cloudnative_logo_alpha.png
+participants:
+  - name: Marco Antonio Muñiz
+    twitter: _marKox
+    github: Markitox
+    avatar: https://s.gravatar.com/avatar/b15a2525dbc2399df463d4d0a912f69f
+    company: Cloud Native MX
+  - name: Domingo Suárez Torres
+    twitter: domix
+    github: domix
+    avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
+    company: Cloud Native MX
+resources:
+  - name: "Certified Kubernetes Security Specialist (CKS)"
+    url: https://www.cncf.io/certification/cks/
+  - name: "Kubernetes Security Essentials Course Now Available"
+    url: https://www.cncf.io/blog/2021/01/08/kubernetes-security-essentials-course-now-available/
+  - name: "Enroll in CKS Prep Skool by StackRox"
+    url: https://security.stackrox.com/CKS.html
+  - name: "AWS re:Invent 2020 – Top Announcements"
+    url: https://aws.amazon.com/blogs/aws/aws-reinvent-announcements-2020/
+  - name: "Announcing HashiCorp Waypoint 0.2.0"
+    url: https://www.hashicorp.com/blog/announcing-hashicorp-waypoint-0-2-0
+  - name: "Announcing HashiCorp Boundary"
+    url: https://www.hashicorp.com/blog/hashicorp-boundary
+  - name: "Announcing CDK for Terraform 0.1"
+    url: https://www.hashicorp.com/blog/announcing-cdk-for-terraform-0-1
+  - name: "Cloud Native Computing Foundation (CNCF) annual report for 2020"
+    url: https://www.cncf.io/wp-content/uploads/2021/01/CNCF-Annual-Report-2020.pdf
+    type: REFERENCE
+  - name: "kube-linter"
+    url: https://github.com/stackrox/kube-linter
+    type: SOURCE_CODE_REPO
