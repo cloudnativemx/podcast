@@ -16,6 +16,8 @@ participants:
     avatar: https://secure.gravatar.com/avatar/f2f6aa8f9b52814cd7c2eb7eecb9cda1
     company: Cloud Native MX
 resources:
+  - name: "Amazon: NOT OK - why we had to change Elastic licensing"
+    url: https://www.elastic.co/blog/why-license-change-AWS
   - name: "Certified Kubernetes Security Specialist (CKS)"
     url: https://www.cncf.io/certification/cks/
   - name: "Kubernetes Security Essentials Course Now Available"
@@ -33,6 +35,10 @@ resources:
   - name: "Cloud Native Computing Foundation (CNCF) annual report for 2020"
     url: https://www.cncf.io/wp-content/uploads/2021/01/CNCF-Annual-Report-2020.pdf
     type: REFERENCE
+  - name: "Shifting Modes: Creating a Program to Support Sustained Resilience"
+    url: https://www.infoq.com/articles/series-enhancing-resilience-2/
+  - name: "97 things every SRE should know - Part 01"
+    url: https://www.unixdaemon.net/sysadmin/97-things-every-sre-01/
   - name: "kube-linter"
     url: https://github.com/stackrox/kube-linter
     type: SOURCE_CODE_REPO
