@@ -19,3 +19,5 @@
   https://cloud.google.com/blog/products/devops-sre/the-2023-accelerate-state-of-devops-survey-is-open
 * State of DevOps in 2023: The Complete Report Roundup
   https://www.splunk.com/en_us/blog/learn/state-of-devops.html
+* Power up Your DevOps Workflow with AI and ChatGPT
+  https://thenewstack.io/power-up-your-devops-workflow-with-ai-and-chatgpt/
