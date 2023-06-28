@@ -5,9 +5,10 @@
 
 # Events
 
-KuvbeCon NA 2023
 
-* https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+
+* KubeCon NA 2023
+  https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
 
 # News
 
