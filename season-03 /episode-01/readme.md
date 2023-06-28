@@ -1,6 +1,7 @@
 # Tweets
 
-* https://twitter.com/kelseyhightower/status/1673366087541600256
+* Keysey Hightower se "retira"
+  https://twitter.com/kelseyhightower/status/1673366087541600256
 
 # Events
 
