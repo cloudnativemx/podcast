@@ -1,11 +1,5 @@
-# Tweets
-
-* Keysey Hightower se "retira"
-  https://twitter.com/kelseyhightower/status/1673366087541600256
 
 # Events
-
-
 
 * KubeCon NA 2023
   https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
@@ -22,3 +16,8 @@
   https://www.splunk.com/en_us/blog/learn/state-of-devops.html
 * Power up Your DevOps Workflow with AI and ChatGPT
   https://thenewstack.io/power-up-your-devops-workflow-with-ai-and-chatgpt/
+
+# Tweets
+
+* Keysey Hightower se "retira"
+  https://twitter.com/kelseyhightower/status/1673366087541600256
