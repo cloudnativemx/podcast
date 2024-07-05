@@ -1,7 +1,8 @@
 
 # Events
 
-* 
+* Jump start your #CloudNative career! 🚘 Attend #KubeCon + #CloudNativeCon + #OSSummit + #AIDev China in Hong Kong from 21-23 August to meet with + learn from the best + brightest in the #OpenSource industry.
+  https://twitter.com/CloudNativeFdn/status/1809029427822485833
 
 # News
 * Why are so many companies working to improve Infrastructure as Code?
