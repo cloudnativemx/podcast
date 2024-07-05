@@ -14,4 +14,5 @@
 
 # Tweets
 
-* 
+* VP Engineering & VP Product: How to Create a United Front
+  https://twitter.com/patkua/status/1809029603320566001``
