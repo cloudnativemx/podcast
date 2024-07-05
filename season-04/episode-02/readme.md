@@ -5,6 +5,8 @@
   https://twitter.com/CloudNativeFdn/status/1809029427822485833
 
 # News
+* Help us test OpenTofu 1.8.0-alpha1
+  https://opentofu.org/blog/help-us-test-opentofu-1-8-0-alpha1/
 * Why are so many companies working to improve Infrastructure as Code?
   https://itnext.io/why-are-so-many-companies-working-to-improve-infrastructure-as-code-6c29bacdd1e1
 * Dev rejects CVE severity, makes his GitHub repo read-only
