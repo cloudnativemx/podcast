@@ -19,7 +19,7 @@
 * El drama del OpenSource
   *  https://www.linkedin.com/posts/danlorenc_oss-opensource-community-activity-7221488717704609792-U2SR/
   *  https://www.theregister.com/2024/07/15/opinion_open_source_attract_devs
-*  The Post-Valkey World
+* The Post-Valkey World
   * https://redmonk.com/sogrady/2024/07/16/post-valkey-world/
  
  
