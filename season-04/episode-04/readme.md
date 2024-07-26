@@ -21,7 +21,7 @@
   *  https://www.theregister.com/2024/07/15/opinion_open_source_attract_devs
 *  The Post-Valkey World
   * https://redmonk.com/sogrady/2024/07/16/post-valkey-world/
-* 
+ 
  
 # Tema del día
 
