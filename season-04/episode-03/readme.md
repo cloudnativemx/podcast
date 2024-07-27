@@ -21,7 +21,12 @@
   *  https://www.theregister.com/2024/07/15/opinion_open_source_attract_devs
 * The Post-Valkey World
   * https://redmonk.com/sogrady/2024/07/16/post-valkey-world/
- 
+* k8s + LLM
+  * https://github.com/k8sgpt-ai/k8sgpt
+* GKE announces extended support
+  * https://cloud.google.com/blog/products/containers-kubernetes/announcing-gke-extended-support
+* Runtime security zero trust
+  * https://thenewstack.io/cloud-reliability-requires-runtime-security-zero-trust/
  
 # Tema del día
 
