@@ -31,7 +31,7 @@
  
 # Tema del día
 
-* CloudStrike
+* CrowdStrike
   * https://www.linkedin.com/posts/kiteframe-tim-mortimer_crowdstrike-continuousdelivery-activity-7220007028662898689-JPbK/
 * CrowdStrike blames testing bugs
   * https://arstechnica.com/information-technology/2024/07/crowdstrike-blames-testing-bugs-for-security-update-that-took-down-8-5m-windows-pcs/  
