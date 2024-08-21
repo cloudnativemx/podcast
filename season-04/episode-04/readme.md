@@ -12,6 +12,10 @@
 * Kubernetes Vulnerability Exposes Clusters to Command Injection Attacks
   * https://cybersecuritynews.com/kubernetes-vulnerability-command-injection/
 
+* Alibaba transforms Olympic broadcasting with cloud and AI services
+  * https://www.cloudcomputing-news.net/news/alibaba-transforms-olympic-2024-broadcasting-with-cloud-and-ai-services/
+
+
 # Repo chingón
 
 * TestContainers for Node
@@ -32,6 +36,8 @@
 * Platform9 Arrives at Simplified Kubernetes With Fairwinds 
   * https://cloudnativenow.com/topics/cloudnativedevelopment/platform9-arrives-at-simplified-kubernetes-with-fairwinds/
 
+* Level up your Kubernetes security with the CIS GKE Benchmarks
+  * https://cloud.google.com/blog/products/identity-security/level-up-your-kubernetes-security-with-the-cis-gke-benchmarks
  
 # Tema del día
 
