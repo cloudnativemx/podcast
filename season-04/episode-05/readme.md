@@ -3,7 +3,7 @@
 
 * KubeCon & CloudNativeCon North America 2024
   * https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
-* KCD en México (Guadalajara)
+* KCD en México 2025 (Guadalajara)
 
 # News
 
