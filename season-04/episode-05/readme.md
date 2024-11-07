@@ -27,9 +27,9 @@
 
 * Tetrate, Bloomberg Collaborate on Envoy-Based AI Gateways
   * https://thenewstack.io/tetrate-bloomberg-collaborate-on-envoy-based-ai-gateways/
-* How AWS powered Prime Day 2024 for record-breaking sales
-  * https://aws.amazon.com/blogs/aws/how-aws-powered-prime-day-2024-for-record-breaking-sales/
 
  
 # Tema del día
 
+* How AWS powered Prime Day 2024 for record-breaking sales
+  * https://aws.amazon.com/blogs/aws/how-aws-powered-prime-day-2024-for-record-breaking-sales/
