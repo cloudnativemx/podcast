@@ -25,6 +25,8 @@
 
 # Articulos
 
+* We're leaving Kubernetes
+  * https://www.gitpod.io/blog/we-are-leaving-kubernetes 
 * Tetrate, Bloomberg Collaborate on Envoy-Based AI Gateways
   * https://thenewstack.io/tetrate-bloomberg-collaborate-on-envoy-based-ai-gateways/
 * How AWS powered Prime Day 2024 for record-breaking sales
