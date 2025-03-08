@@ -29,6 +29,12 @@
 * 65,000 nodes and counting: Google Kubernetes Engine
   * https://cloud.google.com/blog/products/containers-kubernetes/gke-65k-nodes-and-counting
 
+* Kubernetes introduce Dynamic Resource Allocation
+  * https://kubernetes.io/docs/concepts/scheduling-eviction/dynamic-resource-allocation/
+
+* 2024 year in review of CNCF and top 30 open source project velocity
+  * https://www.cncf.io/blog/2025/01/29/2024-year-in-review-of-cncf-and-top-30-open-source-project-velocity/
+
  
 # Tema del día
 
