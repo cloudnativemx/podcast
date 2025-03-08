@@ -32,3 +32,7 @@
  
 # Tema del día
 
+* Eventos
+  * KCD México 2025 https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2025/
+  * KubeCon EU 2025 https://www.cncf.io/announcements/2025/01/15/kubecon-cloudnativecon-europe-2025-schedule-is-live-brimming-with-innovative-and-insightful-cloud-native-content/
+
