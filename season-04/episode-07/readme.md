@@ -29,6 +29,8 @@
   * https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-orchestrator-for-cross-region-kubernetes-workloads
 * New GKE inference capabilities reduce costs
   * https://cloud.google.com/blog/products/containers-kubernetes/understanding-new-gke-inference-capabilities
+* Cloud Native 2024: Approaching a Decade of Code, Cloud, and Change
+  * https://www.cncf.io/wp-content/uploads/2025/04/cncf_annual_survey24_031225a.pdf
 
 
 # Tema del día
