@@ -7,6 +7,8 @@
 
 * HashiCorp officially joins the IBM family
   * https://www.hashicorp.com/en/blog/hashicorp-officially-joins-the-ibm-family
+* IBM mergers & acquisitions
+  * https://newsroom.ibm.com/mergers-and-acquisitions
 * Ingress-nginx
   * https://kubernetes.io/blog/2025/03/24/ingress-nginx-cve-2025-1974/
 * Amazon EC2 SSM Agent Flaw Patched After Privilege Escalation
