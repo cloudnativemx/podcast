@@ -21,6 +21,8 @@
 
 * ToolHive - making MCP servers easy and secure
   * https://github.com/stacklok/toolhive
+* Solve alerts faster with an AI Agent
+  * https://github.com/robusta-dev/holmesgpt
 
   
 # Tweets
@@ -45,6 +47,3 @@
 * Eventos
   * 
   *  
-
-
-https://account.roark.com/orders/6555adbe23a771d015cbb7d061720bc9
