@@ -5,16 +5,10 @@
 
 # News
 
-* 
-  * 
-* 
-  * 
-* 
-  * 
-* 
-  * 
-* 
-  * 
+* Apple - Meet Containerization
+  * https://developer.apple.com/videos/play/wwdc2025/346/
+* Drasi accepted into CNCF sandbox for change-driven solutions 
+  * https://opensource.microsoft.com/blog/2025/06/10/drasi-accepted-into-cncf-sandbox-for-change-driven-solutions/
 
 
 # Repo chingón
@@ -29,14 +23,10 @@
 
 # Articulos
 
+* How WhatsApp Handles 40 Billion Messages Per Day
+  * https://blog.bytebytego.com/p/how-whatsapp-handles-40-billion-messages
 * The State of Infrastructure as Code
   * https://www.firefly.ai/asset-state-of-iac-report-2025
-* 
-  * 
-* 
-  * 
-* 
-  * 
 
 
 # Tema del día
