@@ -41,8 +41,11 @@
 
 # Tema del día
 
+* Kubernetes v1.33 Advances in AI, Security and the Enterprise
+  * https://thenewstack.io/kubernetes-v1-33-advances-in-ai-security-and-the-enterprise/
 * CNCF and Synadia Reach an Agreement on NATS
   * https://thenewstack.io/cncf-and-synadia-reach-an-agreement-on-nats/
+
 
 * Eventos
   * 
