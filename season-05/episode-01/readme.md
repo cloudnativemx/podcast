@@ -30,6 +30,10 @@
   * https://www.cortex.io/ebook/best-practices-for-building-or-deploying-an-internal-developer-portal
 * Observability Without Tradeoffs: Introducing Powerful New Honeycomb Telemetry Pipeline Features
   * https://www.honeycomb.io/blog/introducing-powerful-honeycomb-telemetry-pipeline-features
+* Report Shows OpenTelemetry’s Impact on Go Performance
+  * https://www.infoq.com/news/2025/06/opentelemetry-go-performance/
+* PostgreSQL Eats the World, But CockroachDB Digests It
+  * https://analyticsindiamag.com/global-tech/postgresql-eats-the-world-but-cockroachdb-digests-it/
 
 
 # Tema del día
