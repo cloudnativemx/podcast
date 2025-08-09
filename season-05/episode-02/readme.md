@@ -33,8 +33,8 @@
   * https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html
 * Kubernetes v1.34 Sneak Peek
   * https://kubernetes.io/blog/2025/07/28/kubernetes-v1-34-sneak-peek/
-* 
-  * 
+* Add "kyaml" support to kubectl
+  * https://github.com/kubernetes/kubernetes/pull/130199
 
 
 # Tema del día
